@@ -1,0 +1,303 @@
+{
+  "observations": {
+    "brokoff.txt": {
+      "rows": 880,
+      "source_columns": 5,
+      "wavelength_range_um": [
+        0.7025,
+        5.0975
+      ],
+      "median_uncertainty": 0.002706
+    },
+    "eulalia.txt": {
+      "rows": 3517,
+      "source_columns": 5,
+      "wavelength_range_um": [
+        0.970318,
+        5.09944
+      ],
+      "median_uncertainty": 0.01215454
+    },
+    "hibbs.txt": {
+      "rows": 880,
+      "source_columns": 5,
+      "wavelength_range_um": [
+        0.7025,
+        5.0975
+      ],
+      "median_uncertainty": 0.003904
+    },
+    "horns.txt": {
+      "rows": 880,
+      "source_columns": 5,
+      "wavelength_range_um": [
+        0.7025,
+        5.0975
+      ],
+      "median_uncertainty": 0.002042
+    },
+    "Klio.txt": {
+      "rows": 3554,
+      "source_columns": 3,
+      "wavelength_range_um": [
+        0.970318,
+        5.099445
+      ],
+      "median_uncertainty": 0.007242500000000001
+    },
+    "polana_nirspec.txt": {
+      "rows": 2576,
+      "source_columns": 3,
+      "wavelength_range_um": [
+        1.67113,
+        5.249805
+      ],
+      "median_uncertainty": 0.00047394150000000003
+    }
+  },
+  "available_optical_constants": {
+    "K": {
+      "description": "legacy kerogen",
+      "wavelength_range_um": [
+        0.4,
+        25.0
+      ],
+      "gaps_um": [],
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "M": {
+      "description": "legacy Murchison",
+      "wavelength_range_um": [
+        0.0711,
+        40.0
+      ],
+      "gaps_um": [],
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "Gser": {
+      "description": "Glotch generic serpentine",
+      "wavelength_range_um": [
+        5.00045,
+        99.7205
+      ],
+      "gaps_um": [],
+      "coverage_rows": {
+        "brokoff.txt": 20,
+        "eulalia.txt": 56,
+        "hibbs.txt": 20,
+        "horns.txt": 20,
+        "Klio.txt": 56,
+        "polana_nirspec.txt": 140
+      }
+    },
+    "Gcro": {
+      "description": "Glotch cronstedtite",
+      "wavelength_range_um": [
+        5.00045,
+        99.7205
+      ],
+      "gaps_um": [],
+      "coverage_rows": {
+        "brokoff.txt": 20,
+        "eulalia.txt": 56,
+        "hibbs.txt": 20,
+        "horns.txt": 20,
+        "Klio.txt": 56,
+        "polana_nirspec.txt": 140
+      }
+    },
+    "Mooney1985_chlorite": {
+      "wavelength_range_um": [
+        2.5,
+        50.0
+      ],
+      "rows": 351,
+      "gaps_um": [
+        [
+          3.367003367003367,
+          3.597122302158273
+        ],
+        [
+          4.149377593360996,
+          4.366812227074236
+        ],
+        [
+          29.41176470588235,
+          31.25
+        ]
+      ],
+      "coverage_rows": {
+        "brokoff.txt": 431,
+        "eulalia.txt": 1366,
+        "hibbs.txt": 431,
+        "horns.txt": 431,
+        "Klio.txt": 1354,
+        "polana_nirspec.txt": 1545
+      }
+    },
+    "Mooney1985_serpentine": {
+      "wavelength_range_um": [
+        2.5,
+        50.0
+      ],
+      "rows": 321,
+      "gaps_um": [
+        [
+          3.289473684210526,
+          3.6363636363636362
+        ],
+        [
+          4.149377593360996,
+          4.784688995215311
+        ],
+        [
+          29.41176470588235,
+          31.25
+        ]
+      ],
+      "coverage_rows": {
+        "brokoff.txt": 324,
+        "eulalia.txt": 1066,
+        "hibbs.txt": 324,
+        "horns.txt": 324,
+        "Klio.txt": 1055,
+        "polana_nirspec.txt": 1245
+      }
+    },
+    "Querry1985_magnetite": {
+      "wavelength_range_um": [
+        0.21,
+        55.5556
+      ],
+      "rows": 612,
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "composite_serpentine_proxy": {
+      "wavelength_range_um": [
+        0.1,
+        1000.0
+      ],
+      "rows": 2001,
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "Khare1984_Titan_tholin": {
+      "wavelength_range_um": [
+        0.0207,
+        920.0
+      ],
+      "rows": 90,
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "Roush2021_calcite": {
+      "wavelength_range_um": [
+        0.31,
+        416.6667
+      ],
+      "rows": 2837,
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "Roush2021_dolomite": {
+      "wavelength_range_um": [
+        0.4,
+        500.0
+      ],
+      "rows": 3233,
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "Roush2021_magnesite": {
+      "wavelength_range_um": [
+        0.3,
+        416.6667
+      ],
+      "rows": 2171,
+      "coverage_rows": {
+        "brokoff.txt": 880,
+        "eulalia.txt": 3517,
+        "hibbs.txt": 880,
+        "horns.txt": 880,
+        "Klio.txt": 3554,
+        "polana_nirspec.txt": 2576
+      }
+    },
+    "Querry1987_dolomite_o": {
+      "wavelength_range_um": [
+        2.5,
+        40.0
+      ],
+      "rows": 376,
+      "coverage_rows": {
+        "brokoff.txt": 520,
+        "eulalia.txt": 1615,
+        "hibbs.txt": 520,
+        "horns.txt": 520,
+        "Klio.txt": 1603,
+        "polana_nirspec.txt": 1794
+      }
+    },
+    "Querry1987_dolomite_e": {
+      "wavelength_range_um": [
+        2.5,
+        50.0
+      ],
+      "rows": 381,
+      "coverage_rows": {
+        "brokoff.txt": 520,
+        "eulalia.txt": 1615,
+        "hibbs.txt": 520,
+        "horns.txt": 520,
+        "Klio.txt": 1603,
+        "polana_nirspec.txt": 1794
+      }
+    }
+  },
+  "interpretation": "Coverage only; no fit, mineral detection, or independent numerical verification of full optical-constant tables."
+}

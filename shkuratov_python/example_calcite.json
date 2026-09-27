@@ -1,0 +1,14 @@
+{
+  "wavelength_range": [1.0, 4.0],
+  "points": 101,
+  "porosity": 0.3,
+  "quadrature_order": 128,
+  "components": [
+    {
+      "path": "data/optical_constants_full/roush2021_calcite.csv",
+      "columns": [0, 2, 3],
+      "weight": 1.0,
+      "diameter": 30.0
+    }
+  ]
+}

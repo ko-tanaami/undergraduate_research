@@ -1,0 +1,42 @@
+{
+  "config": {
+    "wavelength_range": [
+      5.1,
+      12.0
+    ],
+    "points": 201,
+    "porosity": 0.3,
+    "quadrature_order": 256,
+    "components": [
+      {
+        "opcon_dir": "C:/Users/2017j/Downloads/opcon",
+        "code": "Gser",
+        "weight": 1.0,
+        "diameter": 30.0
+      }
+    ]
+  },
+  "numpy": "2.4.6",
+  "quantity": "Shkuratov model reflectance; geometric-albedo equivalence unverified",
+  "idl_comparison": false,
+  "bare_interface_transport": "Te=1-Re; Ti=1-Ri (Shkuratov et al. 1999 Eq. 7a)",
+  "interface_mode": "idl_complex",
+  "spectral_smoothing": "none",
+  "implementation_sha256": "461669a1967c9a430be507cb8791cc4a19a4f17c349425d767cd14d41404077d",
+  "source_optical_constants": [
+    {
+      "core": {
+        "numeric_constants_and_gaps_sha256": "af2e43ebee1dddf567879680d3918f880771beea795feb9fe0bc03a2324daf84",
+        "interpolation": "linear",
+        "rows": 986,
+        "wavelength_range_um": [
+          5.00045,
+          99.7205
+        ],
+        "documented_missing_intervals": []
+      },
+      "coating": null,
+      "inclusion": null
+    }
+  ]
+}

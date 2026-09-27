@@ -1,0 +1,9 @@
+{
+  "wavelength_range": [5.1, 12.0],
+  "points": 201,
+  "porosity": 0.3,
+  "quadrature_order": 256,
+  "components": [
+    {"opcon_dir": "C:/Users/2017j/Downloads/opcon", "code": "Gser", "weight": 1.0, "diameter": 30.0}
+  ]
+}

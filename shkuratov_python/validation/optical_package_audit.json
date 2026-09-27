@@ -1,0 +1,253 @@
+{
+  "magnetite": {
+    "raw": {
+      "rows": 612,
+      "wavelength_range_um": [
+        0.21,
+        55.5556
+      ],
+      "out_of_order_pairs": 2,
+      "n_range": [
+        2.102,
+        7.943
+      ],
+      "k_range": [
+        0.026,
+        5.21
+      ]
+    },
+    "package": {
+      "rows": 63,
+      "wavelength_range_um": [
+        0.21,
+        55.5556
+      ],
+      "out_of_order_pairs": 0,
+      "n_range": [
+        2.104,
+        7.943
+      ],
+      "k_range": [
+        0.047,
+        3.655
+      ]
+    },
+    "comparison": {
+      "matched_rows": 63,
+      "rows": 63,
+      "all_match_original_at_reported_precision": true
+    }
+  },
+  "mg_serpentine_proxy": {
+    "raw": {
+      "rows": 2001,
+      "wavelength_range_um": [
+        0.1,
+        1000.0
+      ],
+      "out_of_order_pairs": 0,
+      "n_range": [
+        0.506113,
+        3.08154
+      ],
+      "k_range": [
+        2.61986e-05,
+        1.93529
+      ]
+    },
+    "package": {
+      "rows": 101,
+      "wavelength_range_um": [
+        0.1,
+        1000.0
+      ],
+      "out_of_order_pairs": 0,
+      "n_range": [
+        0.558341,
+        3.06877
+      ],
+      "k_range": [
+        2.68738e-05,
+        1.70491
+      ]
+    },
+    "comparison": {
+      "matched_rows": 101,
+      "rows": 101,
+      "all_match_original_at_reported_precision": true
+    },
+    "at_2_7_um": {
+      "full_n_k": [
+        1.8255515929203583,
+        0.001800259557522136
+      ],
+      "preview_interpolated_n_k": [
+        1.8705270341256086,
+        0.0033222984221341913
+      ]
+    }
+  },
+  "titan_tholin": {
+    "raw": {
+      "rows": 90,
+      "wavelength_range_um": [
+        0.0207,
+        920.0
+      ],
+      "out_of_order_pairs": 0,
+      "n_range": [
+        0.802,
+        2.17
+      ],
+      "k_range": [
+        0.0004,
+        0.77
+      ]
+    },
+    "package": {
+      "rows": 90,
+      "wavelength_range_um": [
+        0.0207,
+        920.0
+      ],
+      "out_of_order_pairs": 0,
+      "n_range": [
+        0.802,
+        2.17
+      ],
+      "k_range": [
+        0.0004,
+        0.77
+      ]
+    },
+    "comparison": {
+      "matched_rows": 90,
+      "rows": 90,
+      "all_match_original_at_reported_precision": true
+    },
+    "matches_legacy_opcon_T": false,
+    "legacy_opcon_T_difference": {
+      "rows_with_different_values": 10,
+      "max_absolute_k_difference": 5.000000000000002e-05
+    }
+  },
+  "dolomite_o": {
+    "raw": {
+      "rows": 376,
+      "wavelength_range_um": [
+        2.5,
+        40.0
+      ],
+      "out_of_order_pairs": 1,
+      "n_range": [
+        0.077,
+        6.584
+      ],
+      "k_range": [
+        0.0,
+        5.709
+      ]
+    },
+    "package": {
+      "rows": 39,
+      "wavelength_range_um": [
+        2.5,
+        40.0
+      ],
+      "out_of_order_pairs": 0,
+      "n_range": [
+        0.147,
+        4.431
+      ],
+      "k_range": [
+        0.0,
+        1.689
+      ]
+    },
+    "comparison": {
+      "matched_rows": 39,
+      "rows": 39,
+      "all_match_original_at_reported_precision": true
+    }
+  },
+  "dolomite_e": {
+    "raw": {
+      "rows": 381,
+      "wavelength_range_um": [
+        2.5,
+        50.0
+      ],
+      "out_of_order_pairs": 1,
+      "n_range": [
+        0.097,
+        3.41
+      ],
+      "k_range": [
+        0.0,
+        3.271
+      ]
+    },
+    "package": {
+      "rows": 39,
+      "wavelength_range_um": [
+        2.5,
+        50.0
+      ],
+      "out_of_order_pairs": 0,
+      "n_range": [
+        0.198,
+        2.682
+      ],
+      "k_range": [
+        0.0,
+        1.266
+      ]
+    },
+    "comparison": {
+      "matched_rows": 39,
+      "rows": 39,
+      "all_match_original_at_reported_precision": true
+    }
+  },
+  "calcite_Ghosh1999": {
+    "rows": 200,
+    "has_k": false,
+    "wavelength_range_um": [
+      0.204,
+      2.1720000000000006
+    ]
+  },
+  "fe_serpentine": {
+    "has_spectral_nk": false
+  },
+  "PDS_Roush2021_calcite": {
+    "rows": 2837,
+    "wavelength_range_um": [
+      0.31,
+      416.6667
+    ],
+    "has_n_and_k": true,
+    "strictly_increasing_wavelength": true,
+    "max_wavenumber_rounding_difference_cm_inverse": 0.1262679189321716
+  },
+  "PDS_Roush2021_dolomite": {
+    "rows": 3233,
+    "wavelength_range_um": [
+      0.4,
+      500.0
+    ],
+    "has_n_and_k": true,
+    "strictly_increasing_wavelength": true,
+    "max_wavenumber_rounding_difference_cm_inverse": 0.1262679189321716
+  },
+  "PDS_Roush2021_magnesite": {
+    "rows": 2171,
+    "wavelength_range_um": [
+      0.3,
+      416.6667
+    ],
+    "has_n_and_k": true,
+    "strictly_increasing_wavelength": true,
+    "max_wavenumber_rounding_difference_cm_inverse": 0.16430199430214998
+  }
+}

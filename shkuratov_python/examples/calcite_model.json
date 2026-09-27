@@ -1,0 +1,46 @@
+{
+  "config": {
+    "wavelength_range": [
+      1.0,
+      4.0
+    ],
+    "points": 101,
+    "porosity": 0.3,
+    "quadrature_order": 128,
+    "components": [
+      {
+        "path": "data/optical_constants_full/roush2021_calcite.csv",
+        "columns": [
+          0,
+          2,
+          3
+        ],
+        "weight": 1.0,
+        "diameter": 30.0
+      }
+    ]
+  },
+  "numpy": "2.4.6",
+  "quantity": "Shkuratov model reflectance; geometric-albedo equivalence unverified",
+  "idl_comparison": false,
+  "bare_interface_transport": "Te=1-Re; Ti=1-Ri (Shkuratov et al. 1999 Eq. 7a)",
+  "interface_mode": "idl_complex",
+  "spectral_smoothing": "none",
+  "implementation_sha256": "0c3ffbc7da7d18f1c9af49e5cf824806d8ff43eb2ca743447d1326fa83274f43",
+  "source_optical_constants": [
+    {
+      "core": {
+        "numeric_constants_and_gaps_sha256": "7b08b943641c1a7b45761c6d6ec52945bf5882fb2513d47693f5c700527947c2",
+        "interpolation": "linear",
+        "rows": 2837,
+        "wavelength_range_um": [
+          0.31,
+          416.6667
+        ],
+        "documented_missing_intervals": []
+      },
+      "coating": null,
+      "inclusion": null
+    }
+  ]
+}

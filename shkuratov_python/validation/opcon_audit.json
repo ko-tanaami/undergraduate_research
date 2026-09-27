@@ -1,0 +1,3670 @@
+{
+  "note": "Basic validation is not verification of units, provenance, or physical accuracy. No source files changed.",
+  "files": [
+    {
+      "file": "12ch4_1-5um_opcon",
+      "bytes": 466373,
+      "sha256": "6be25a3e3c9718aede102869dff0d3cb4bd63605b77331ab0b9951e0c98c75e4"
+    },
+    {
+      "file": "12ch4_1-5um_opcon_nk",
+      "bytes": 730136,
+      "sha256": "9cfb0049d0e7b9112be72d7faecd31823789a3424705bde1e39b2858c7887a94"
+    },
+    {
+      "file": "12co_1-5um_opcon",
+      "bytes": 464808,
+      "sha256": "0fbcf841cb128696dcd979f800ea461702d881f0a476890e16691b7fc3e95abf"
+    },
+    {
+      "file": "A2_nk",
+      "bytes": 2175,
+      "sha256": "25cc75ace3940bb00ef0255873bb18f056f36419bec41a9c87f5bcf270c0ccf0"
+    },
+    {
+      "file": "A_k",
+      "bytes": 4084,
+      "sha256": "c52b5a6240ec95eddc41fc61bcb9b3351e8318140181f40a727ccefef4fcd2d2"
+    },
+    {
+      "file": "A_n",
+      "bytes": 16,
+      "sha256": "5bf0342c50924f46c029e3fa94e5aed6c5d4be47bfae27ee434293a84f5bccef"
+    },
+    {
+      "file": "alpha_CH4[1].ascii",
+      "bytes": 273202,
+      "sha256": "89abd7e8afd494a96e4431fae58bb989dba00356e9ba2766cab5ddaf6e78d59f"
+    },
+    {
+      "file": "alpha_H2O.pro",
+      "bytes": 5801,
+      "sha256": "dab1d4abfd3ca0c5bae2fa5a914442a1847499d4679421233a8f2e501ce9c16c"
+    },
+    {
+      "file": "alpha_H2O_ascii_gz.txt",
+      "bytes": 416264,
+      "sha256": "92415c517c933af6712ce01267eba26411f25996d034b1c921656c7b128dfbb9"
+    },
+    {
+      "file": "alpha_N2[1].ascii",
+      "bytes": 121450,
+      "sha256": "c5f712568bbea468ed281655560023cf80dab4536679943fd9aae51b105713b1"
+    },
+    {
+      "file": "amm_mart83",
+      "bytes": 1914,
+      "sha256": "2e3c7d1cee59e17bee6387292d3a6f5eff61aec932e5cee76b8e9a237e964956"
+    },
+    {
+      "file": "asphalt_k",
+      "bytes": 54575,
+      "sha256": "ef590ac3eb9ac255938ba295f1e39bc9cfe5a6d77ccd63e901829fadb206ae5d"
+    },
+    {
+      "file": "asphalt_n",
+      "bytes": 54572,
+      "sha256": "87cc48ac21018708c7a237be932bcdb4dde5b0c8570c6602a6b0e4e607711068"
+    },
+    {
+      "file": "at_k",
+      "bytes": 120,
+      "sha256": "6dff8210951a494c1014c18ed87da58440eae8c23d80121ca39ca4551fb3f4b5"
+    },
+    {
+      "file": "at_n",
+      "bytes": 18,
+      "sha256": "fffc359f5084b6842fc885e35f2007d75e9101b5d39d86341ef87ff6c8e0022d"
+    },
+    {
+      "file": "Br100_nk",
+      "bytes": 20746,
+      "sha256": "48d72c12c93f7cc5ae663175a52317287a10659d4ed6559b5842db4365ef6c0c"
+    },
+    {
+      "file": "Br10_nk",
+      "bytes": 20746,
+      "sha256": "1b97aa994fdb08823142b81ab0caf07354fc61a38b94fe7dbf81a2f3b5326d6e"
+    },
+    {
+      "file": "Br300_nk",
+      "bytes": 20623,
+      "sha256": "3f29fd82148cf3ae010b2bcedcd2f808de47bcdae85c0f2970f9f24c79b8e970"
+    },
+    {
+      "file": "c2_k",
+      "bytes": 103,
+      "sha256": "203553777568e83a98a81ee7cc9b2cfc18dcbbd0a9e6e6139652cd264331790c"
+    },
+    {
+      "file": "c4_k",
+      "bytes": 202,
+      "sha256": "96f60fbba8814ca5c13c983c4049f20fd70fd94bba2320747b55756533e903d4"
+    },
+    {
+      "file": "C_k",
+      "bytes": 1983,
+      "sha256": "a7ef6101c76fbcb45f4f4a52dec227a5b7274ad920503d843f1525be1f509b8a"
+    },
+    {
+      "file": "C_n",
+      "bytes": 598,
+      "sha256": "fdec4affd22531b2c2daea7cfbcfb0a66d62de0280b7926dea628866e0f2a47d"
+    },
+    {
+      "file": "ch3oh_120k_1-5um_opcon",
+      "bytes": 441075,
+      "sha256": "faf6c1544240b98d58d0ddb367022a526fa4adb1be0c657b08a481c34e33d602"
+    },
+    {
+      "file": "ch3oh_120k_opcon",
+      "bytes": 598196,
+      "sha256": "09b5c9dfc1e2617470ba0b8f3bb0cbe77b3d3d982ab18a032cdb9b03fc82aece"
+    },
+    {
+      "file": "ch3oh_90k_1-5um_opcon",
+      "bytes": 442406,
+      "sha256": "6b6c2437e153fda5756b0e3af6191d294e3f30174fe5e518ffb4072522f80567"
+    },
+    {
+      "file": "ch3oh_90k_opcon",
+      "bytes": 598196,
+      "sha256": "56895eed2a38f0d830603a1fa1c257087bf6c5f0f4de219feb7b46648ed3ee2c"
+    },
+    {
+      "file": "ch4-20_nk",
+      "bytes": 63192,
+      "sha256": "47fabbb6bca12e71f7b9b04ff92e99fd9fa3fb1d85e1a736c420f997f528a9ac"
+    },
+    {
+      "file": "ch4-30_nk",
+      "bytes": 66720,
+      "sha256": "e5a7e28c1384ff0d794f9b0e8b6f0392568d7b80a71220aca474452304c90316"
+    },
+    {
+      "file": "ch4-40_nk",
+      "bytes": 66720,
+      "sha256": "2b9fd611f83a74d7f89d41032b001d4324da6f7366fb172bcee65f3fbb29ace0"
+    },
+    {
+      "file": "ch4-50_nk",
+      "bytes": 62040,
+      "sha256": "b7d7c3f080364812f328336ddda49526ba04f2cb8e5b9e994efe03b2be0b4769"
+    },
+    {
+      "file": "ch4-60_nk",
+      "bytes": 59832,
+      "sha256": "a20c697fdc900fa7c0ea6a82c3105c110593976372fd77c0e67050bcc79c9286"
+    },
+    {
+      "file": "ch4-70_nk",
+      "bytes": 58848,
+      "sha256": "c8656906aad6405fb78aa2086c3cceeacc7a683398df996bdecaddb7f59bb435"
+    },
+    {
+      "file": "ch4-80_nk",
+      "bytes": 58896,
+      "sha256": "a5707d6f5bd4d6b3cf2ed5f77a085b84a77d004d6548e6c506f826c150045ed7"
+    },
+    {
+      "file": "ch4-90_nk",
+      "bytes": 63504,
+      "sha256": "4dfd7e612649f1af3339b6da90dd8dcae5ab41f2e93f2cacc8ef564f4eb2fd52"
+    },
+    {
+      "file": "ch4-93_nk",
+      "bytes": 62904,
+      "sha256": "316b7e740dada96f3756eaea9a21fb95844aad20b4c189030486f66aea77f650"
+    },
+    {
+      "file": "ch4-h10K_nk",
+      "bytes": 99988,
+      "sha256": "fe349fd05dd72f8b6a63d7ee7756b63b4862915b888d08620e0e24552ee179bc"
+    },
+    {
+      "file": "ch4-h20K_nk",
+      "bytes": 27328,
+      "sha256": "f917231c36a1987feb8c13f03fec10a29e2bd4157e173fa85938315667befd08"
+    },
+    {
+      "file": "ch4-h30K_nk",
+      "bytes": 126280,
+      "sha256": "f8439edca1d66cd1b7693ddd8dfc4f0e3cef7837454c2dd8caa66f4abdd43fc5"
+    },
+    {
+      "file": "co2-h10K_nk",
+      "bytes": 91224,
+      "sha256": "6a7a5027a7d046b7184bc703b27db1c70c57fad256d2af12c42e8b584553a5b6"
+    },
+    {
+      "file": "co2-h30K_nk",
+      "bytes": 86240,
+      "sha256": "f4160a05b30c711b7951b47691b36a7523c88b048554b01e798d3acd0d947b6b"
+    },
+    {
+      "file": "co2-h50K_nk",
+      "bytes": 89908,
+      "sha256": "18e0ccb42afbfc195e811e10138d9e64d3e5766ec6903c07f986e8a521229bca"
+    },
+    {
+      "file": "co2-h70K_nk",
+      "bytes": 93716,
+      "sha256": "2ebe2f7794c35b06c0612afd964e1d8596d5f54913b3991e3194fcb92a0070d8"
+    },
+    {
+      "file": "co2i4a.rfi",
+      "bytes": 1208139,
+      "sha256": "179da2e364aa66d8ae599039755f3dd16483c80147d1c01a2db9d9ae39e365a6"
+    },
+    {
+      "file": "co2i4a_nk",
+      "bytes": 1208136,
+      "sha256": "5bf980118e3ef545faddc38560242a0dc68379947dcb5770da2cc90a52d7a92a"
+    },
+    {
+      "file": "convbob.pro",
+      "bytes": 349,
+      "sha256": "8be46d8d90d006106c99c02dbbca6084a3f9ca3c33c9d7838d5226fc97b3c478"
+    },
+    {
+      "file": "cpx_kfunc",
+      "bytes": 17339,
+      "sha256": "88d345cced28be3b53f9c1419c423d76c533844e108543228f4b9af28f7a0100"
+    },
+    {
+      "file": "D1000_nk",
+      "bytes": 2993,
+      "sha256": "bafdd120bc3628ec46fa94f71d7ad4dc2c343f41ba5cedc2991376882b068c7f"
+    },
+    {
+      "file": "D1_nk",
+      "bytes": 1777,
+      "sha256": "a911ec8cabddcb9f418cc6b662500ac4a9b32b800655cbb62d87a3d89eea4e6f"
+    },
+    {
+      "file": "D2_nk",
+      "bytes": 1777,
+      "sha256": "1be8edc2910ef4bd2864d6e6c9cf58cccb464e1f55c505d0e27a86acd500a00c"
+    },
+    {
+      "file": "D400_nk",
+      "bytes": 2829,
+      "sha256": "485bf4b45506e858f31626e168532097f600d436d3018d77f25fc60a25acf640"
+    },
+    {
+      "file": "D600_nk",
+      "bytes": 2788,
+      "sha256": "875042fe509d3782c3e45efc7f9d0bdaf183dc07e683fdf0d9e07ed1bd37b601"
+    },
+    {
+      "file": "D800_nk",
+      "bytes": 2911,
+      "sha256": "231645cd86802266e76b76de38ad32d92ce13516666a109de8a0e877a9be9782"
+    },
+    {
+      "file": "D_nk",
+      "bytes": 437,
+      "sha256": "7bbfeca68eca561c2e9a17fa4d98b84db9a667c611243245cffd722742f51dcb"
+    },
+    {
+      "file": "dsort.pro",
+      "bytes": 1083,
+      "sha256": "a5eb74255d4be3c5e877ac2919717c098f10405c3c7d422b2545ddab77508b34"
+    },
+    {
+      "file": "dum001_nk",
+      "bytes": 3100,
+      "sha256": "0bbdfc1f6687d7cb06e8228be990f76b691d9849278670c4bb9dc8e7ab8b7c50"
+    },
+    {
+      "file": "dum002_nk",
+      "bytes": 4100,
+      "sha256": "1ba6beda2e773ef0849881e8b5e8e0f586f660bc2af14412ba5ee017b659869c"
+    },
+    {
+      "file": "dum005_nk",
+      "bytes": 4100,
+      "sha256": "6d6bb38b6e0a48ed1963d36fb26f1768ba56dc809107f007e5af3bd91ab3506c"
+    },
+    {
+      "file": "dum01_nk",
+      "bytes": 4100,
+      "sha256": "f4868b972c9acf2721b1965fb72c53988d0a45f57b62406c1886af4489904938"
+    },
+    {
+      "file": "dum02_nk",
+      "bytes": 4100,
+      "sha256": "17a8dd0be83d154d6950cbad427efae900e45f1a26a42b412288580b91e4efa3"
+    },
+    {
+      "file": "dum05_nk",
+      "bytes": 4100,
+      "sha256": "2da5dc901529d2307e9ca4af2283dfd298a664de794881bdb2641ab0c2c0be1b"
+    },
+    {
+      "file": "dum1-_nk",
+      "bytes": 4100,
+      "sha256": "3ec04e161344ab75de269f21f43c4d5a9051f7d8d7d2b80d65ab94a39b5aff2a"
+    },
+    {
+      "file": "dum100_nk",
+      "bytes": 4100,
+      "sha256": "7d350904b7084df6a9f6400713ce93f68e4e1f35c477c6475b579c77135356cc"
+    },
+    {
+      "file": "dum10_nk",
+      "bytes": 4100,
+      "sha256": "0908db00a7448fa41077ba7db9aa7867ddb4513e440d0bead781c7951af4f116"
+    },
+    {
+      "file": "dum1_nk",
+      "bytes": 4100,
+      "sha256": "8652214a96137f2f447697bdce201aa1927a8a96c92d336ff7821c7ca0eec6c8"
+    },
+    {
+      "file": "En_nk",
+      "bytes": 33128,
+      "sha256": "cb44f04d365935bfc43b179709d51516a2e53a7ffd0d60788b4bd922928b3962"
+    },
+    {
+      "file": "Enp_nk",
+      "bytes": 21449,
+      "sha256": "05dcf07bb585ca2a0dff9ca2289d749fc17ff4b0eee6cb7f136102a045c54f8f"
+    },
+    {
+      "file": "Ens1_nk",
+      "bytes": 21960,
+      "sha256": "2e72a1f899e0da07d8570a66eecf78129361fa8a3f97443668918b2926fa582c"
+    },
+    {
+      "file": "Ens2_nk",
+      "bytes": 21931,
+      "sha256": "807f6c58d13c03cd9f8d942d9a8f4c6b826bd84cb61db39bc6bf02ab50d5298e"
+    },
+    {
+      "file": "Fa_nk",
+      "bytes": 273306,
+      "sha256": "f285807aaae9f97d7fe802241e46bccafe2185009c8282f264213c068307076d"
+    },
+    {
+      "file": "Fays_nk",
+      "bytes": 82000,
+      "sha256": "c941506fb40b926ecdfdf7b91dd2a894ab5287b0992ea13e8b5096e855ba1e32"
+    },
+    {
+      "file": "Fayx_nk",
+      "bytes": 205000,
+      "sha256": "59d4a289b2b0cc8597289b7ee27ec606f42c59741b45897f0ed63000cdd122cd"
+    },
+    {
+      "file": "Fayy_nk",
+      "bytes": 205000,
+      "sha256": "8f71d6d9234cf544144a2c5be06f6323a4c71cacb9409d36e10d89f85d2bad02"
+    },
+    {
+      "file": "Fayz_nk",
+      "bytes": 205000,
+      "sha256": "e7120772dfd47e7221ee61811200f2fcea94d48f242b8a1172fc9a094cf6bc0c"
+    },
+    {
+      "file": "Fe12_nk",
+      "bytes": 2418,
+      "sha256": "7c986f82065dc5d1406e4fcb904e2c83af47e4ea4b73620c78f2ef22679ff8a2"
+    },
+    {
+      "file": "fe1jc74scl.pro",
+      "bytes": 1635,
+      "sha256": "3790c0a3f823f57b459d2c2ee68cfb15122ee91e33ad6cd056395113e564c7c3"
+    },
+    {
+      "file": "Fe1jc_nk",
+      "bytes": 5940,
+      "sha256": "d62d5bc6919a7f4a112b0408d5607b76ec59c842b0db9e42b1abe8b6ebf8fb14"
+    },
+    {
+      "file": "Fe_1.txt",
+      "bytes": 1854,
+      "sha256": "e7ed57673f1db7224146965e951ec872d456bc2563d570b6599830709ffa9994"
+    },
+    {
+      "file": "Fe_2.txt",
+      "bytes": 1816,
+      "sha256": "8860e9343d6b0d60366c74e0571b2f1406ca71a151502491fdfdc12395c3c89f"
+    },
+    {
+      "file": "Fe_jc74.txt",
+      "bytes": 842,
+      "sha256": "db68ad9311c5a0120e23bd2bc2fdbbb7a9589f071baf7cd201923542f1d90226"
+    },
+    {
+      "file": "Fe_jc74_lam.txt",
+      "bytes": 2116,
+      "sha256": "908407ed65e3443787da6bc39b927bcee9297e1cddfbc86bd984493c11480ef2"
+    },
+    {
+      "file": "Fe_nk",
+      "bytes": 2091,
+      "sha256": "4353db9b9e52f337c9cfba4780abad371ec4614236654dc43fba3b6a9d7649d6"
+    },
+    {
+      "file": "Fe_nk.txt",
+      "bytes": 1310,
+      "sha256": "3efc8c9f8e321eac7b0d31f74da6f207b321749323c1d9afe89f8feadaf1e3ac"
+    },
+    {
+      "file": "fetmp.pro",
+      "bytes": 488,
+      "sha256": "ce0463b1d5b3b80af4570779d23ea0fd0d631d2846d35357821e48783912bad4"
+    },
+    {
+      "file": "fetmp2.pro",
+      "bytes": 512,
+      "sha256": "53b5195c3bd035c60a47ef8614b6874a7cf2be9869d65c5e5e8a5a699b78c9f6"
+    },
+    {
+      "file": "forfay.pro",
+      "bytes": 521,
+      "sha256": "b55d8ee1776b464f0e5e593a6571b2ba4fd1f5a046a52ce0b842ab3b9084bc0f"
+    },
+    {
+      "file": "from_cristina\\ch4-grundy+Hudgins.oc",
+      "bytes": 96550,
+      "sha256": "40fe614e1054781c43c6f619e9e4260b0b3de31813e10b76cd4c0feac1e9f51a"
+    },
+    {
+      "file": "from_cristina\\ch4grundy.oc",
+      "bytes": 85230,
+      "sha256": "82a0a475eb6404f5e5baca3c081961f07e399a1b67e548f121e37c2e4d288971"
+    },
+    {
+      "file": "from_cristina\\martonchik_nrni_sch4_30.txt",
+      "bytes": 63093,
+      "sha256": "d444cb8438f845a7e41f71e2cfd9adbac50ee6ada021462535debbd1b5c4e35a"
+    },
+    {
+      "file": "from_cristina\\martonchik_nrni_sch4_90.txt",
+      "bytes": 63093,
+      "sha256": "45ebbfa7ffb5f5e3ab18d1ec3f9f03500fd7a478303c3e6980c56cc5afb61a56"
+    },
+    {
+      "file": "from_cristina\\Martonchik_Orton.pdf",
+      "bytes": 1573487,
+      "sha256": "a8511e68a509e34664e45c422e1d3c82ab86c1605f00ef5bd3eccfcf532f577f"
+    },
+    {
+      "file": "G_dielect.txt",
+      "bytes": 2310,
+      "sha256": "68896b9f7ad9bc6662f4f93d1ed28347960b76ec95221b8e1cf97854714eb237"
+    },
+    {
+      "file": "G_nk",
+      "bytes": 1960,
+      "sha256": "5d1018fb2269033542d963c590936508557229e1947b9069d7a2bf46195c1112"
+    },
+    {
+      "file": "Gbei_nk",
+      "bytes": 40426,
+      "sha256": "e21bad0d5043c1157aee83576cf662497cea724788d024d7dd5cb566435d87e2"
+    },
+    {
+      "file": "Gcro_nk",
+      "bytes": 40426,
+      "sha256": "e73b1e04b9cb800558a8da57b7804deacff0c24f7e0d90cd7942d016c9be61ad"
+    },
+    {
+      "file": "Ghal_nk",
+      "bytes": 40426,
+      "sha256": "9148caa037855db1f3e44d806f40597c54df3d5369e37059abf63859c96eaad9"
+    },
+    {
+      "file": "Ghec_nk",
+      "bytes": 40426,
+      "sha256": "788d6f063273f96de46ce0d78e50a8eaa593e1979d7f559a99f2137cccc6a0da"
+    },
+    {
+      "file": "Gill_nk",
+      "bytes": 40426,
+      "sha256": "712098142d5e614145abd9f5fbb963e6eba9c6eb9d0a87ed0359e08f3b196ce0"
+    },
+    {
+      "file": "Gillsme_nk",
+      "bytes": 40426,
+      "sha256": "924f51c4da7bb54d74cb2f788c942a8fbf0cfb034c3e384f047c9186e158e00b"
+    },
+    {
+      "file": "Gkao_nk",
+      "bytes": 40426,
+      "sha256": "29971d8b726b936839e8fdcc3936bf4be4be6f1e983f5da48420bf94291ced81"
+    },
+    {
+      "file": "glotch\\beidellite_k.txt",
+      "bytes": 16330,
+      "sha256": "3550036ebd88fd7bb7fc7cc5a0bbd1613ec9c6b40cfa7af2ced9229dd5ace8aa"
+    },
+    {
+      "file": "glotch\\beidellite_n.txt",
+      "bytes": 16325,
+      "sha256": "c43efda4cc0d75e309d45cff501fe25e012ee979be139ffbf7093bbe17f2a6b5"
+    },
+    {
+      "file": "glotch\\cronstedtite_k.txt",
+      "bytes": 16330,
+      "sha256": "92b571bd76a08215115ccf7c1a28d3ae2373852229e79aa0f6b459f9e206494e"
+    },
+    {
+      "file": "glotch\\cronstedtite_n.txt",
+      "bytes": 16325,
+      "sha256": "75cbea07bd6dff7b44f762700ccc1a9d7575da2566f9791d73b16899410fe0a6"
+    },
+    {
+      "file": "glotch\\halloysite_k.txt",
+      "bytes": 16330,
+      "sha256": "143155298e8389131a1361057eef9a2c3e264891174d36d07487a46110eb64c5"
+    },
+    {
+      "file": "glotch\\halloysite_n.txt",
+      "bytes": 16325,
+      "sha256": "27595f9e73a259102b73442842435f849615b96da2b402eb206ded986b44596a"
+    },
+    {
+      "file": "glotch\\hectorite_k.txt",
+      "bytes": 16330,
+      "sha256": "8e9da422ca0182e5806501adf5ad9cbf113ffc4a686b88fd333ae9a84795041a"
+    },
+    {
+      "file": "glotch\\hectorite_n.txt",
+      "bytes": 16325,
+      "sha256": "62a013498e81aaea6262c244717022ca32ea9a55a264000c25584fea9b843053"
+    },
+    {
+      "file": "glotch\\illite-smectite_k.txt",
+      "bytes": 16330,
+      "sha256": "a94e8d926ae428c74a22ff9f13a2dec9d528e24181b90601af9ac2fb822e6b11"
+    },
+    {
+      "file": "glotch\\illite-smectite_n.txt",
+      "bytes": 16325,
+      "sha256": "5c08d7f01eca9f4431c8ce97eabaa3f6b30615a2888fda1333ef5c042388f172"
+    },
+    {
+      "file": "glotch\\illite_k.txt",
+      "bytes": 16330,
+      "sha256": "3d578258882bd5ba76a5553dd42731dfa508edaa79ab4685b3cde7213f284fcc"
+    },
+    {
+      "file": "glotch\\illite_n.txt",
+      "bytes": 16325,
+      "sha256": "f01dd3288a88cae1b82180b23533c2238f10e418c7fedbc4b42e3bafdb257df5"
+    },
+    {
+      "file": "glotch\\kaolinite_k.txt",
+      "bytes": 16330,
+      "sha256": "6dd24e9158f54538924362249653230700d01ac3d546515dc8ea4723c68d1189"
+    },
+    {
+      "file": "glotch\\kaolinite_n.txt",
+      "bytes": 16325,
+      "sha256": "f85757f527b2b0801a33104ca2c0315bc12f642b40032b39b971cd01ebbae167"
+    },
+    {
+      "file": "glotch\\montmorillonite_k.txt",
+      "bytes": 16330,
+      "sha256": "c4534338083a489bd4e75a65d8fdcd7815eb044e0e88a1e032b1577377ec3ccb"
+    },
+    {
+      "file": "glotch\\montmorillonite_n.txt",
+      "bytes": 16325,
+      "sha256": "9f91d5e6782023b45e08bca73c73742e55992276e93744523d587cdb6e466fd9"
+    },
+    {
+      "file": "glotch\\nontronite_k.txt",
+      "bytes": 16330,
+      "sha256": "d88316e4e66aae3f6b0650f85eaeb6405550f4e2e48af91c0a10a0475d32122d"
+    },
+    {
+      "file": "glotch\\nontronite_n.txt",
+      "bytes": 16325,
+      "sha256": "4ca89d7ce353b4aa2e68dc0becbcf62122ae9ce984a512f76fe261395cbac357"
+    },
+    {
+      "file": "glotch\\saponite_k.txt",
+      "bytes": 16330,
+      "sha256": "4712366c539f833a7857d74305c903a54aa93f19c28a5f17f34c3f7ae9a78fcb"
+    },
+    {
+      "file": "glotch\\saponite_n.txt",
+      "bytes": 16325,
+      "sha256": "63e49092b7175c765d38960bc012a9c262d74f214548a7b34e22f88895115594"
+    },
+    {
+      "file": "glotch\\serpentine_k.txt",
+      "bytes": 16330,
+      "sha256": "01314abbb302fe7111017bc67b96a120f3978fe2d3e91ba798ed8543e202122a"
+    },
+    {
+      "file": "glotch\\serpentine_n.txt",
+      "bytes": 16325,
+      "sha256": "489ca6fdf422274a9497f964484244bd746729b79420d29a4fd7437ff980789c"
+    },
+    {
+      "file": "glotch\\wrtglotch.pro",
+      "bytes": 988,
+      "sha256": "2b0e84cec9a3df4da57f71cbe9eba8908fef20ae56b45013d9efc29ad6dc3935"
+    },
+    {
+      "file": "Gmon_nk",
+      "bytes": 40426,
+      "sha256": "b881df3f38de2cda5b7509e24c0408fbf2af2f01525a27f6f15fc12b698f11d2"
+    },
+    {
+      "file": "Gnon_nk",
+      "bytes": 40426,
+      "sha256": "f37f26b2d7d287f9957ee71be4e1e5bdcb5921b905e4b61511fc15e24dc19989"
+    },
+    {
+      "file": "graphopcon.pro",
+      "bytes": 1028,
+      "sha256": "9adfb7ab10715ba56268b53d7a9fad0d5ce96f35fe5d5dbfc3f5c6405998d510"
+    },
+    {
+      "file": "Gsap_nk",
+      "bytes": 40426,
+      "sha256": "790fb49d4b27ae72de174919c57e953b73f4c86ccf08dbd06e73ed805948d00d"
+    },
+    {
+      "file": "Gser_nk",
+      "bytes": 40426,
+      "sha256": "e3dfcf1ee9c9aada5e24c87060b0ef480f7f71d73de4fe63eb21820ed17d3803"
+    },
+    {
+      "file": "h2o-100_nk",
+      "bytes": 86912,
+      "sha256": "826a6cce45a9b6d2c49bdc2c6d57ad107b2bdbeee72b7c19970f67d8fd7cab68"
+    },
+    {
+      "file": "h2o-100_nk_mod",
+      "bytes": 41860,
+      "sha256": "d19579df030efdaefc48350621b9452cdf5c5391247dce16b5fcab5a6d2f40b6"
+    },
+    {
+      "file": "h2o-100_nk_orig",
+      "bytes": 41860,
+      "sha256": "2e2d81280f22d99b38558ec1d569211a62a9bb3152bb0460f8041b81d043a656"
+    },
+    {
+      "file": "h2o-100_nk_V-4.2um",
+      "bytes": 41860,
+      "sha256": "d19579df030efdaefc48350621b9452cdf5c5391247dce16b5fcab5a6d2f40b6"
+    },
+    {
+      "file": "h2o-40_nk",
+      "bytes": 125216,
+      "sha256": "23868619901d07e91d6a9393af5bd8502859d0adfdb7ebb0fe1c8ee38d511326"
+    },
+    {
+      "file": "h2o-70_nk",
+      "bytes": 36400,
+      "sha256": "c620c78768b5b467831cab0da2463675e86cb84b8d538e7aa0f1033b4043f4d3"
+    },
+    {
+      "file": "h2o-h100K_nk",
+      "bytes": 50260,
+      "sha256": "c167d1591fcc356d4081a1ff1772cdaf5f6cc564777bee10bc6d8eeffcf8dc4b"
+    },
+    {
+      "file": "h2o-h10K_nk",
+      "bytes": 51520,
+      "sha256": "b551b1d6f0126a5064854249072a1225ebd175d979b469bcb5717202e8796fbc"
+    },
+    {
+      "file": "h2o_1-5um_opcon",
+      "bytes": 479594,
+      "sha256": "dd4e991faeb2774439fb383b4fa17e54b257586b5e32da27ecdd579dcc88a71f"
+    },
+    {
+      "file": "h2o_nk_mastrapa.tgz",
+      "bytes": 2617311,
+      "sha256": "80c9ff43825cb6369f44facf92f4163780f8a63e5a65ee5e970d11bb4b8d62fe"
+    },
+    {
+      "file": "H_k",
+      "bytes": 2390,
+      "sha256": "ee19d572dd6b57912faa9aed0f20913bb1ea83f5a9d307f513f89863521605ad"
+    },
+    {
+      "file": "H_n",
+      "bytes": 2794,
+      "sha256": "ad782c682dcb41f31f9adc86992d16e0e420e2c42fced904f14134db995c68bc"
+    },
+    {
+      "file": "hiroshi.pro",
+      "bytes": 242,
+      "sha256": "71250938dba5d3d93b4a53cd18756666a9f54e59efc248f160fb39cf1217e2f5"
+    },
+    {
+      "file": "Hudgins\\CH3OH.10",
+      "bytes": 125182,
+      "sha256": "627e1db1bfb301eac9bce5512b4cfbccfe57624ab62bd5fa56cac0e325974b90"
+    },
+    {
+      "file": "Hudgins\\CH3OH.100",
+      "bytes": 124938,
+      "sha256": "616b6e5dd0570696f418031a4cae78387604e549f3a77c71d5e950d6ca894e71"
+    },
+    {
+      "file": "Hudgins\\CH3OH.120",
+      "bytes": 124636,
+      "sha256": "8bc98db3f8af35261bbb1bc743b4a014976ff4d14f02b0ed0859b8bb8635b47f"
+    },
+    {
+      "file": "Hudgins\\CH3OH.50",
+      "bytes": 136488,
+      "sha256": "8ab50efabde9b750bb3f70e221cf8bc52af70d56740bea380243fbe52588d818"
+    },
+    {
+      "file": "Hudgins\\CH3OH.75",
+      "bytes": 136412,
+      "sha256": "920e2cacca6da5a303104d023c9da2eb32fff7281bb4a6efe6b6b82e2db08c28"
+    },
+    {
+      "file": "Hudgins\\CH4.10",
+      "bytes": 194627,
+      "sha256": "bb8914e4a525928820157df6e54cff4216d9ed34dd663262a91ef6d55afe6195"
+    },
+    {
+      "file": "Hudgins\\CH4.20",
+      "bytes": 193409,
+      "sha256": "2f37e5f699a3e7a4cc4c84a1fbee94627e4c945a706ce8ffd69eaf19ab06e11a"
+    },
+    {
+      "file": "Hudgins\\CH4.30",
+      "bytes": 195918,
+      "sha256": "d4b899aa8b7ad987e993b390599b5fe3697d1cadc3ab6f2731304de409ead55e"
+    },
+    {
+      "file": "Hudgins\\CO2.10",
+      "bytes": 136500,
+      "sha256": "5b486f422bd60c567b8c9927d2a1ff16a814e6cb6a835a91393c16e2b30b9382"
+    },
+    {
+      "file": "Hudgins\\CO2.30",
+      "bytes": 137060,
+      "sha256": "7e013c251e59ea9118f06897f6f980cd7e90044eb5103a7fc3fe6099d05364ca"
+    },
+    {
+      "file": "Hudgins\\CO2.50",
+      "bytes": 140223,
+      "sha256": "65f26cadab0d7a4f680c771285ba628b480f15d6375158404db4a41db3987a2e"
+    },
+    {
+      "file": "Hudgins\\CO2.70",
+      "bytes": 140182,
+      "sha256": "923d05425c6be70c20ad10a33d0c5a7ac48c4f8e194033e7e03c94de0a68f04c"
+    },
+    {
+      "file": "Hudgins\\CO2_CH4.10",
+      "bytes": 241051,
+      "sha256": "3986b11516f1da4bebe2e1dcda4fccf43607c0c649d58d0486d1328ddbeff54f"
+    },
+    {
+      "file": "Hudgins\\CO2_CH4.20",
+      "bytes": 240897,
+      "sha256": "adb922259b18671a20402f99ac821f5ac77928db637b36c3632704fd87349119"
+    },
+    {
+      "file": "Hudgins\\CO2_CH4.30",
+      "bytes": 236134,
+      "sha256": "93c897df7167192b8567400a55a8e85daf5dae3915742d9b6c0c65b5e5af96e0"
+    },
+    {
+      "file": "Hudgins\\CO2_CH4.50",
+      "bytes": 240167,
+      "sha256": "2b4b7e9ce0327ef1ab32d6ec8324b4fd03d8c210803c7c66dd35e33a47a57ef8"
+    },
+    {
+      "file": "Hudgins\\CO2_CH4.70",
+      "bytes": 239921,
+      "sha256": "26d306b9545602655b92cedab4e53b83efbed259dc9e418275035c730e2211ce"
+    },
+    {
+      "file": "Hudgins\\CO2_OCS.10",
+      "bytes": 220937,
+      "sha256": "a4641367e41e3d8715581291fa49d16b669999f2c9b550a4d204483247116281"
+    },
+    {
+      "file": "Hudgins\\CO2_OCS.30",
+      "bytes": 200389,
+      "sha256": "199232c231478d52b665c1b7c1dfed304b4c8992f4c8342979c6d4a7be31b736"
+    },
+    {
+      "file": "Hudgins\\CO2_OCS.70",
+      "bytes": 200198,
+      "sha256": "ead827eda602c7102a102730ef86c138a18d7db26f784913239e6a81512e56bd"
+    },
+    {
+      "file": "Hudgins\\CO_CH4.10",
+      "bytes": 165229,
+      "sha256": "68d72240c9447455cae8d894a1539d6a1ba50fd601e724463b27aff3a2f893fd"
+    },
+    {
+      "file": "Hudgins\\CO_CH4.15",
+      "bytes": 165698,
+      "sha256": "df66a6938fc5360e7a37cabe0ae260ca224c52f281875e26773741f7ab179a9d"
+    },
+    {
+      "file": "Hudgins\\CO_CH4.20",
+      "bytes": 165290,
+      "sha256": "069caa92d3f80137715521c4db7a261b36ba9d8c726e872bbecbc02d002b32e6"
+    },
+    {
+      "file": "Hudgins\\CO_CH4.25",
+      "bytes": 163548,
+      "sha256": "8dabbf81251ed8f770b25fad29a736b9895c6cb5aff38831303aa4d3b0710fbd"
+    },
+    {
+      "file": "Hudgins\\CO_OCS.10",
+      "bytes": 60250,
+      "sha256": "20133c5c02b77bc89430f70b4a7bb1f77ec6eee32de5de0b349bac15e8617d6a"
+    },
+    {
+      "file": "Hudgins\\CO_OCS.20",
+      "bytes": 60466,
+      "sha256": "d88fd6aef89a7fd728ca27e017f913d9c223224f728d52523af076adb93dc06f"
+    },
+    {
+      "file": "Hudgins\\CO_OCS.25",
+      "bytes": 60364,
+      "sha256": "f0b8d7e18d8050830bc4d879ec9e351bef51542a06733c502977cb9f96d2d928"
+    },
+    {
+      "file": "Hudgins\\CO_OCS.30",
+      "bytes": 60291,
+      "sha256": "0ad2d5928ef7151783c5d61388109310b00fb76d116925c1fb985fd3f92e7f56"
+    },
+    {
+      "file": "Hudgins\\H2O.10",
+      "bytes": 110716,
+      "sha256": "8370233cd4001cd4bfe15348b61f6863122fa2edae24176d5d0c628c85a2c84a"
+    },
+    {
+      "file": "Hudgins\\H2O.100",
+      "bytes": 110685,
+      "sha256": "3b2b9ae019de4a9e561951e7847a9f560f981d741adc1b13bba7c35a582412f5"
+    },
+    {
+      "file": "Hudgins\\H2O.120",
+      "bytes": 80399,
+      "sha256": "f27e6807697b1d2db84cd2fb9340d20d310c212ce64e44503a1e97cfae1388b4"
+    },
+    {
+      "file": "Hudgins\\H2O.140",
+      "bytes": 110772,
+      "sha256": "b07a73eed863314dfa14aa28e698b79880b0738c46cccac32e0d47cbc7d2db67"
+    },
+    {
+      "file": "Hudgins\\H2O.40",
+      "bytes": 80421,
+      "sha256": "e91aae73aea1790b342a7eb9064000c62cfb9a5961c0af4331eb98ea407f17e8"
+    },
+    {
+      "file": "Hudgins\\H2O.80",
+      "bytes": 80293,
+      "sha256": "2f8a2bf63aa61c52ae8044e2e97bee1c867bfe616a5e06eed26c0ad6659ea15f"
+    },
+    {
+      "file": "Hudgins\\H2O_CH4.10",
+      "bytes": 112757,
+      "sha256": "074ebb448b99988f601637221ee9799e7b162eaa02cf06e3251c7d757418bcd1"
+    },
+    {
+      "file": "Hudgins\\H2O_CH4.100",
+      "bytes": 113639,
+      "sha256": "2ead5f7d8f1c4d6ae34a6639c83b1ae939d7d64099158474500cedeb7bcf5e06"
+    },
+    {
+      "file": "Hudgins\\H2O_CH4.120",
+      "bytes": 113605,
+      "sha256": "de015744699e12f32a7bc848b7d95c88857d4af1110615750636d2ff39185dc6"
+    },
+    {
+      "file": "Hudgins\\H2O_CH4.140",
+      "bytes": 112374,
+      "sha256": "55d6fb26c9725513cd4f58f11e9c9d7188ef5eda030529389f2b69ea8957abc3"
+    },
+    {
+      "file": "Hudgins\\H2O_CH4.40",
+      "bytes": 113581,
+      "sha256": "1723504015ea813697e60c6998229c4a409407b2032dcc9de3cebeed98c723c1"
+    },
+    {
+      "file": "Hudgins\\H2O_CH4.80",
+      "bytes": 112644,
+      "sha256": "3520282e4206a7832b62053265b7db7467fda4c62c2d9231f0cbeb0096d2f506"
+    },
+    {
+      "file": "Hudgins\\H2OOC201.10",
+      "bytes": 110367,
+      "sha256": "4d678f8f7343fb69d3c2455d5d44565557679aa6c7d84036224a7be477ea00c4"
+    },
+    {
+      "file": "Hudgins\\H2OOC201.100",
+      "bytes": 110425,
+      "sha256": "b7f18affe8caf2a8b6d615d0056c3ef6b01c917c5037398a9763ff4335d20688"
+    },
+    {
+      "file": "Hudgins\\H2OOC201.120",
+      "bytes": 110436,
+      "sha256": "b2c4f493f22ca135ce18f4e176dd659284ab4baeddb5884d0bd23344d59731b6"
+    },
+    {
+      "file": "Hudgins\\H2OOC201.140",
+      "bytes": 110402,
+      "sha256": "7b62b74e5e3b19379046a3bfc8220cf6f8dbb01f16da7d11d86f9e54bf015908"
+    },
+    {
+      "file": "Hudgins\\H2OOC201.40",
+      "bytes": 111344,
+      "sha256": "c1ae97640a740df0492c632dee6664d1fe57cbe343d79407916d6232970affba"
+    },
+    {
+      "file": "Hudgins\\H2OOCS21.10",
+      "bytes": 134961,
+      "sha256": "af2d65f0fe6645ab2ddbefa95b0063fe9537ac98d59fea4311145a8a12381f91"
+    },
+    {
+      "file": "Hudgins\\H2OOCS21.100",
+      "bytes": 134815,
+      "sha256": "2160fb1075b9974fe91069664ee9b598f27b0e79714751e2288163d147e4087a"
+    },
+    {
+      "file": "Hudgins\\H2OOCS21.120",
+      "bytes": 134836,
+      "sha256": "61a932e0723c324b2a4595735d2a49a0a6e9780fdbe2c6065b28d467e27aa38d"
+    },
+    {
+      "file": "Hudgins\\H2OOCS21.140",
+      "bytes": 134821,
+      "sha256": "2d6aa5f682107edb17caff0796149422af73ba510c9fe07b66e3993cc43e83b6"
+    },
+    {
+      "file": "Hudgins\\H2OOCS21.40",
+      "bytes": 135001,
+      "sha256": "bcb33cc473a47021151a6e92250b8e17ab716e06f8130ff5c72d1d46e1bf6985"
+    },
+    {
+      "file": "Hudgins\\H2OOCS21.80",
+      "bytes": 134997,
+      "sha256": "207c57776f1e21aa8cc2f280706ea7d116e1343909d9e542ad77197169d536c3"
+    },
+    {
+      "file": "Hudgins\\ISM_STRO.10",
+      "bytes": 123230,
+      "sha256": "27c76fb5269b924195dea45a44ac51379fee153cc31c8bff73ded20605b82170"
+    },
+    {
+      "file": "Hudgins\\ISM_STRO.100",
+      "bytes": 123231,
+      "sha256": "1ac139377f9e5d5a9b85b14c607954d7437c8ca7dcb8be74c53cac65d9591c98"
+    },
+    {
+      "file": "Hudgins\\ISM_STRO.120",
+      "bytes": 135229,
+      "sha256": "8bf744a1eb56e01d3b6e8d13de041ca624c7cf6c8d73a30fa65024c1db101910"
+    },
+    {
+      "file": "Hudgins\\ISM_STRO.140",
+      "bytes": 123206,
+      "sha256": "df6614cebe0b46c4c00648e22d956e8d84ca825b111614cb9a4e7b3a136a6c95"
+    },
+    {
+      "file": "Hudgins\\ISM_STRO.40",
+      "bytes": 134896,
+      "sha256": "854fcabf5d32e37c2e918ee060a856fe7362a389d38772f633f8574b30e3f3c7"
+    },
+    {
+      "file": "Hudgins\\ISM_STRO.80",
+      "bytes": 136679,
+      "sha256": "bfaf3969393f3db48f8cee63a330bcbbf7295b4430a45fdbe7a83187e18f9961"
+    },
+    {
+      "file": "Hudgins\\ISM_WEAK.10",
+      "bytes": 122598,
+      "sha256": "6591cd542331b5ae18e266ca3bd7d486feeeb9037d7d25131771c36177d42f35"
+    },
+    {
+      "file": "Hudgins\\ISM_WEAK.100",
+      "bytes": 125505,
+      "sha256": "80fd973377f7b3a258fd55a2c5e65543137add0d265ac9006f5bffcc39fcafd1"
+    },
+    {
+      "file": "Hudgins\\ISM_WEAK.120",
+      "bytes": 134167,
+      "sha256": "83450ad010c59d284918b6979b15a45236e0578023eb990ca4cec50802d873ef"
+    },
+    {
+      "file": "Hudgins\\ISM_WEAK.140",
+      "bytes": 122546,
+      "sha256": "0ebb6a4352aba579b5e96dc2249ea3b97824fb21bd76187ab556d9ab4e785fd2"
+    },
+    {
+      "file": "Hudgins\\ISM_WEAK.40",
+      "bytes": 134260,
+      "sha256": "6c08f96c56cbefc8cf82abfaa9f5b4d91d9b65b8d24ebc49b27ea7bc674889a8"
+    },
+    {
+      "file": "Hudgins\\ISM_WEAK.80",
+      "bytes": 134154,
+      "sha256": "ff0da9cb548ee33226fba7262d0698e6aeb1cc18d7faf5fe31a0e010f848fa47"
+    },
+    {
+      "file": "Hudgins\\N2_CH4.10",
+      "bytes": 166519,
+      "sha256": "0588911c8aab18a4c730bedb478ba6dd612c34b05c0517ff702442084cfc9946"
+    },
+    {
+      "file": "Hudgins\\N2_CH4.20",
+      "bytes": 163662,
+      "sha256": "88567dfcf1cc5bea0cae6933fdd520abb83eb127c26224bc3446d8b03bcd19d6"
+    },
+    {
+      "file": "Hudgins\\N2_OCS.10",
+      "bytes": 92928,
+      "sha256": "e6e95458d84102cc6e24d8c79b5b2312b2c7d26e7ba2b934d0c0841c40146f64"
+    },
+    {
+      "file": "Hudgins\\N2_OCS.15",
+      "bytes": 91789,
+      "sha256": "11a42dd4e594b2da8fa0f5e4b089acaac9040b106bad0a94b4389752d1af3717"
+    },
+    {
+      "file": "Hudgins\\N2_OCS.20",
+      "bytes": 91476,
+      "sha256": "b30a402fd7a107ef1d50adf1bf49478c806ef3801502edc1615b9b096821c01c"
+    },
+    {
+      "file": "Hudgins\\N2_OCS.25",
+      "bytes": 92563,
+      "sha256": "e00455f6de1abc98e6bcb56803536b908b408fd599e62d61ab3076641a2f4a81"
+    },
+    {
+      "file": "Hudgins\\O2_CH4.10",
+      "bytes": 164760,
+      "sha256": "980ee0da8a3812152ac36ee02ef3d488f30097f81bab4bfca49890d536b8b186"
+    },
+    {
+      "file": "Hudgins\\O2_CH4.20",
+      "bytes": 155914,
+      "sha256": "752cfa0926a3ed346fe145403a3b733238ebff85927a5de01aeb70c682a7fa48"
+    },
+    {
+      "file": "Hudgins\\O2_CH4.30",
+      "bytes": 155857,
+      "sha256": "43c7fd2719a31ae63623ee5ec360f3d1f4770c5a3b2c2777260fc826385d83c0"
+    },
+    {
+      "file": "Hudgins\\O2_OCS.10",
+      "bytes": 133407,
+      "sha256": "b41c3dc5a9c56f9880358a1175aebc4254c72ff663ebe7c7fcd3bedbc6d16323"
+    },
+    {
+      "file": "Hudgins\\O2_OCS.20",
+      "bytes": 129627,
+      "sha256": "aa4418108341945ce839699254e44c6416e31db15ee0a0d559dc81043af7cfd0"
+    },
+    {
+      "file": "Hudgins\\OCS.10",
+      "bytes": 96940,
+      "sha256": "6cd0184c760f0a29aaf992cb6d197442afbc3fb0243e571fdc772ddd6dd699f4"
+    },
+    {
+      "file": "Hudgins\\OCS.50",
+      "bytes": 97223,
+      "sha256": "27dea4a7ebf778b019ad980c308d3324acd4020727c2c536835afcfe96f97eb6"
+    },
+    {
+      "file": "Hudgins\\OCS.60",
+      "bytes": 97196,
+      "sha256": "5c1de9910e087b801052dbfcd89b84f58b8e3abcab96c5974336d76755583e96"
+    },
+    {
+      "file": "Hudgins\\RENAME.SH",
+      "bytes": 1976,
+      "sha256": "fe6b7bd2ab61f9c15e0432bae8a817ecf1f58da48d8fe05bd29794c260e5457e"
+    },
+    {
+      "file": "Hudgins\\TABLE.DOC",
+      "bytes": 2530,
+      "sha256": "3d4e8af728401637393b2f1ffeb9edcbcca4883e40188aa72f4710b9a8f79f13"
+    },
+    {
+      "file": "Hudgins\\TABLE.TOC",
+      "bytes": 7393,
+      "sha256": "2ad7232b819fe733ad8c08dee2353be99326a9bbc61aa5c76c8ccb0f49ecf90e"
+    },
+    {
+      "file": "Hudgins\\UNNAME.SH",
+      "bytes": 1976,
+      "sha256": "e57f7ad556154c4fe6949fd871f2def536fee747b7d1e329330423ab2871d8c8"
+    },
+    {
+      "file": "hudgins_100k",
+      "bytes": 3340,
+      "sha256": "dc1983ee902dca9e80eeac3655003608c1b226b1c8630cd6e92fe23d79538c62"
+    },
+    {
+      "file": "I1_nk",
+      "bytes": 7749,
+      "sha256": "881148028994841e0cd473a04166e725eb1ebf6310aeade6154098fe6198caca"
+    },
+    {
+      "file": "I2_nk",
+      "bytes": 12956,
+      "sha256": "f971963d6e89d320b88b3b7a5685b924c8fc91ae8ab91f8ffdebe3eb0aba2872"
+    },
+    {
+      "file": "I_k",
+      "bytes": 1778,
+      "sha256": "8000733c23de0d4e2edde9339bcafe5dc17eb092848da6714e4b069c35d76a85"
+    },
+    {
+      "file": "I_n",
+      "bytes": 2165,
+      "sha256": "b5a702fcfc9e3869c20f031a2d4f57bcdf90e2448c312fdb804259d6b92c37d9"
+    },
+    {
+      "file": "icethol.pro",
+      "bytes": 839,
+      "sha256": "7ebbd70117e6294d4dd039f1933bd9f14b85a563d5120203bfdd33b2d43b5649"
+    },
+    {
+      "file": "icetholI",
+      "bytes": 5529,
+      "sha256": "1bf2ee308e6513b25c611b9079fc75e29e2528492fdeebcf25aa3cb7057d5e9c"
+    },
+    {
+      "file": "icetholII",
+      "bytes": 9238,
+      "sha256": "4dfeaaac3b9ce8d5a30feb5e29e56d367ed74cbaed658cc6e3fed714d4861161"
+    },
+    {
+      "file": "ii_k",
+      "bytes": 42,
+      "sha256": "f509ebd84d38c7375f6bdc2fc674effe8ff406ae2eb5591449aa29b5b909f535"
+    },
+    {
+      "file": "ii_n",
+      "bytes": 18,
+      "sha256": "d79d244b422a72bd1385c11b5166ebde8bd14e3c847c3d34c3ef7b8e7801b739"
+    },
+    {
+      "file": "J2_nk",
+      "bytes": 7800,
+      "sha256": "0c24f50c4d72fc9bc0c288e3056a37785bb0131b6c50644761631f2b907bff5f"
+    },
+    {
+      "file": "J3_nk",
+      "bytes": 7800,
+      "sha256": "55f4c2b2070c7193ead7acaed61c5cbee9a39f39f7339ddf84a660a6f9918842"
+    },
+    {
+      "file": "J4_nk",
+      "bytes": 7800,
+      "sha256": "253567b46777c7f17219a7c4a58c2621ac6d240c56ecdf4695e02111e9704711"
+    },
+    {
+      "file": "J5_nk",
+      "bytes": 7800,
+      "sha256": "a2d8a0c46fdb1738c87ca45fe9ed0333b503db57938915d3f4b87a0f0ddf84fa"
+    },
+    {
+      "file": "J6_nk",
+      "bytes": 7800,
+      "sha256": "24d6165f09eaa79a5853bb16e0626044a0299edeea6e883b85798acc242c4243"
+    },
+    {
+      "file": "J7_nk",
+      "bytes": 7800,
+      "sha256": "1e107c4b467dc4ad22ece966c34e1aa1cb3090673bc07beca70404db9f5a6587"
+    },
+    {
+      "file": "J_nk",
+      "bytes": 7800,
+      "sha256": "11b682f5401e05ef9dac0fe0688d6ff0e91d92dcb20701842c78656d5cb12645"
+    },
+    {
+      "file": "Jena\\bro_300_lnk.txt",
+      "bytes": 13665,
+      "sha256": "9d6c4f2ff14d4e27385ac8e2041e27c44705c01f8e24458edb4c42b12719198c"
+    },
+    {
+      "file": "Jena\\bronzcryst_henmut_100K.txt",
+      "bytes": 13702,
+      "sha256": "85b48d87131d8d0ba2c2a8f7d2a85b91bfece0ad6de02428cee3b11e436d1826"
+    },
+    {
+      "file": "Jena\\bronzcryst_henmut_10K.txt",
+      "bytes": 13736,
+      "sha256": "798378b299bb34a7e6ddc08fddef6544c3d2fe6bc93043a6c6fa5f36df0a11f6"
+    },
+    {
+      "file": "Jena\\fe100o_lnk.txt",
+      "bytes": 2926,
+      "sha256": "14534cdfc97f66c114c7378dd013cb87534e46bf71008b6b12b127d1e0b0c257"
+    },
+    {
+      "file": "Jena\\fe100s_lnk.txt",
+      "bytes": 2660,
+      "sha256": "f9a22826f7c041bf7a33823beb06feb4497b16934a715a1eb2a291c3a9ea27f9"
+    },
+    {
+      "file": "Jena\\fe10s_lnk.txt",
+      "bytes": 2660,
+      "sha256": "d2c9337d2d9624f46cc03beb95bd59b6bc99d61b7ffb50f78bdb7e4bda36de66"
+    },
+    {
+      "file": "Jena\\fe25s_lnk.txt",
+      "bytes": 2660,
+      "sha256": "18d4e5456e0a3368206461a377a10ac53bb0a048e0ab7f5685505f97500b4792"
+    },
+    {
+      "file": "Jena\\fe3o4-magnetite.txt",
+      "bytes": 10301,
+      "sha256": "d18c77b4ca2fb30dd6552181170fdeac5d11c5e28cc4325c9fc2fea5d41d744c"
+    },
+    {
+      "file": "Jena\\fe40o_lnk.txt",
+      "bytes": 2926,
+      "sha256": "da8a8d350a13ac2d9a5409e1ad7b0c43545a2c654f4d9b6f2f7efb41add5d99f"
+    },
+    {
+      "file": "Jena\\feo_100k.txt",
+      "bytes": 8241,
+      "sha256": "b3bb57d6e38792957a18faa7fb83e46d1f05b5bf3cbac0ff9250332b2462ce08"
+    },
+    {
+      "file": "Jena\\feo_henmut_100K.txt",
+      "bytes": 5403,
+      "sha256": "42063f4e71c743ffc5f11adc385b64b9dc2df783bcf3e5f09363affe82d841bd"
+    },
+    {
+      "file": "Jena\\fes_200K_lnk.txt",
+      "bytes": 6576,
+      "sha256": "ef1aae06d9486d01e60554bf0ff9731b876d2ad85559f764dfeb60a31f1eb85d"
+    },
+    {
+      "file": "Jena\\fes_henmut_100K.txt",
+      "bytes": 6617,
+      "sha256": "7b9050bb43036fad50a00bdb6938584793811d4516d45089c436e985248cd5d5"
+    },
+    {
+      "file": "Jena\\fes_henmut_10K.txt",
+      "bytes": 6610,
+      "sha256": "d0ca81b75238b76d192e64e0c95e2d34534470ea6bd6ff12fb3c79d3f385dc41"
+    },
+    {
+      "file": "Jena\\opord.pro",
+      "bytes": 686,
+      "sha256": "c8d6512dc10922f9c5743fe43db246d09b698dd20960518913605fb8ae3ae7f2"
+    },
+    {
+      "file": "Jena\\spinel_MgAl2O4_burma_lnk.txt",
+      "bytes": 122567,
+      "sha256": "c90f3ef13fd7f551f06b4a97836c329a109e877358dbf9942c5505b59d9a1e8b"
+    },
+    {
+      "file": "Jp1_nk",
+      "bytes": 7800,
+      "sha256": "045e5d13567235e57f903c01fed0819347e02e5edf84cc14cad1670403f87b69"
+    },
+    {
+      "file": "K_k",
+      "bytes": 1525,
+      "sha256": "b90ae18722393171d73420d88bb81ff933fdab5f80b31e6abe362e77511a2bec"
+    },
+    {
+      "file": "K_n",
+      "bytes": 72,
+      "sha256": "9bc265da3ae1b11cd1a3754a44e075afb5bc69e26fc4431845cfb5664c0f8ae6"
+    },
+    {
+      "file": "lucey_cpx.txt",
+      "bytes": 20764,
+      "sha256": "bf6d8f69d22e727f0aa74f7e63679baf1d2fa733927dae3aae946eb8c1666f95"
+    },
+    {
+      "file": "lucey_opx_ol.txt",
+      "bytes": 39122,
+      "sha256": "1c57a790312e3cf2efbafd2871484619c6add2db8dac0e39836c78a1b66226c3"
+    },
+    {
+      "file": "m100_nk",
+      "bytes": 511372,
+      "sha256": "570dcd7dbbe8ba5f9f3ecf1e619b7d4eb478bbd3c9788db9838bcaca9310b565"
+    },
+    {
+      "file": "M_k",
+      "bytes": 1196,
+      "sha256": "d18b600897e76dd08e2e833c640830bb1e1f273da2511ff995522df8fbae28f4"
+    },
+    {
+      "file": "M_n",
+      "bytes": 2183,
+      "sha256": "4dd24c516ecff7375381b9c57f484c44823e5b611aba2a1a8a703478a452cc0d"
+    },
+    {
+      "file": "Mag_nk",
+      "bytes": 10301,
+      "sha256": "d18c77b4ca2fb30dd6552181170fdeac5d11c5e28cc4325c9fc2fea5d41d744c"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_100K.txt",
+      "bytes": 434116,
+      "sha256": "ebeadffdf7a3b1d479a1f0e87d50128b59edc33c8a03cd43df14525ca99cd01d"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_120K.txt",
+      "bytes": 434263,
+      "sha256": "87020045f5e808e668d02c8e0a57c3b02ee6638b6659ad92d251914b4932de85"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_15K.txt",
+      "bytes": 434116,
+      "sha256": "b57c511613fc9b16a57aca22bd4b89a5aeab6e92e330c7aed8ac6ca4b45b11ba"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_25K.txt",
+      "bytes": 434116,
+      "sha256": "5c9805499968d6ced9faa71c50d1ee1f63eb13b9905af193b5a9a38c62ab65da"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_40K.txt",
+      "bytes": 434263,
+      "sha256": "57c3836f9b2e590eca414030ea9e7a5f63be88f141322aaeecff5e2d6b0c0e6b"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_50K.txt",
+      "bytes": 434263,
+      "sha256": "fa5d8ab2e8220d65ca8a026a24d4ff7a6f68dc04f5b49d91568781de514a315a"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_60K.txt",
+      "bytes": 434263,
+      "sha256": "858fc39dd2cc0561b4beb2bff4a42ac3733aabc0cd8177ddcacadd7bda26a16a"
+    },
+    {
+      "file": "mastrapa_h2o\\amorph_80K.txt",
+      "bytes": 434263,
+      "sha256": "99f723c5f1f0e9d378a8c95d27c234c0ded59ef1668fc1cccbdbbf24617ec806"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_100K.txt",
+      "bytes": 423238,
+      "sha256": "03afd1c8ac1a8ababd503b4ce7d13cc4d77deadadc4e98b6563e580e85154246"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_110K.txt",
+      "bytes": 423237,
+      "sha256": "f1232cdaa1610d91a7afccdacc3064d31021b3cb1085b9c688d5986161d6de4d"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_120K.txt",
+      "bytes": 423237,
+      "sha256": "9499724979d671f615546e7ede3ecc44ceb1525f31fdf321bf4dae2841347408"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_130K.txt",
+      "bytes": 423237,
+      "sha256": "520eebdf8d4a8f33ee3b841d11e5ae08209888562085f2444f6e1a0db0e96d9a"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_140K.txt",
+      "bytes": 423238,
+      "sha256": "df7bc01a4b5964500a389daa7ba9207b4c9abae10cc2782c7e4e08dec54322a2"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_150K.txt",
+      "bytes": 423237,
+      "sha256": "4e46db7cf7ec711d270636a29caf3c4aabb25cf7d35f10c9cd2e1b1bc1a4484f"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_20K.txt",
+      "bytes": 423238,
+      "sha256": "9e5eb235547dce8c14ef1f28563aae66f81bdb0b165c60409428df288e21e7b1"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_30K.txt",
+      "bytes": 423238,
+      "sha256": "404ec17821186146ecebf743df2d23be1bd0cf50e2fd9dbe2a5acb11cf32a272"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_40K.txt",
+      "bytes": 423238,
+      "sha256": "d1f6985a4397916fed239e12a1d4e6f092bdbe37f10b628ce30b458cc0d59d73"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_50K.txt",
+      "bytes": 438038,
+      "sha256": "4d615d3924ec83017c84fc161032e85b5794b94456220dc9d9687d8cbfedb066"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_50K_orig.txt",
+      "bytes": 423238,
+      "sha256": "2a9a07ef47b543e21bab1f6ffe0f19e9f186e9adfdd4d7705b67e620626bb484"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_60K.txt",
+      "bytes": 423237,
+      "sha256": "19ba56ada7b0be88fbc93825d65cafe842a889aaac4d2b1cfda768d0ad94e1b0"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_70K.txt",
+      "bytes": 423237,
+      "sha256": "0923856e47b1d3d7b85d0b74cfa7a57f3140e2977b31199864957a791e7921ec"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_80K.txt",
+      "bytes": 423238,
+      "sha256": "ef4b4961f84f6d59f6c0518dee3d0a231d50f053cd124d5595359fee4b9b7c95"
+    },
+    {
+      "file": "mastrapa_h2o\\crys_90K.txt",
+      "bytes": 423238,
+      "sha256": "5b727e105891b2b09fc11da74181f5c1eb2dad801273a0609a70d388efe8583d"
+    },
+    {
+      "file": "Materials_List.bak.txt",
+      "bytes": 2526,
+      "sha256": "19a06402c87fc51098431369ab0f998df9dc3e9ebfb301e8bf34cfdb7d72889e"
+    },
+    {
+      "file": "Materials_List.txt",
+      "bytes": 6469,
+      "sha256": "c5a001fc33b4339b5647da66029ccd5936f3fc9bb547d57e023d4c1a1017dc01"
+    },
+    {
+      "file": "mkdum.pro",
+      "bytes": 406,
+      "sha256": "caa874c061029af5b0b3232ed081780f01365f86d4bcdce202e7d50393dde876"
+    },
+    {
+      "file": "mukaikoike.pro",
+      "bytes": 1033,
+      "sha256": "0654ef04d7adbd66ef7223c52a2d3e2d1c276d20472b920904a4c11bedf2ee4d"
+    },
+    {
+      "file": "n2-37_nk",
+      "bytes": 35386,
+      "sha256": "cc3046664650b16cd2dbab287625ce758322bfa5999c52b95ca0ba1dd0ec4130"
+    },
+    {
+      "file": "n2-38_nk",
+      "bytes": 35386,
+      "sha256": "f03f784b9f06fbc519ab7a82abea9d3bdba9f1b904907167b6cb0ad4361dc221"
+    },
+    {
+      "file": "n2-41_nk",
+      "bytes": 35386,
+      "sha256": "5eae7d0b2252b229a31bcadb337a55975f0a5f615b8882886abdce86749b3804"
+    },
+    {
+      "file": "N_k",
+      "bytes": 20,
+      "sha256": "a93f51624ef0ad307cb36dfbcd6943fd467ae60bff4c8e574d738049803ec0c9"
+    },
+    {
+      "file": "N_n",
+      "bytes": 16,
+      "sha256": "f58891d06485df4f2839987b0944acac2b69f1d0fb6c6109564ac711e28a5ef8"
+    },
+    {
+      "file": "O1_nk",
+      "bytes": 4142,
+      "sha256": "4241a2d0e50f81d7c53bd486741bf1eb33878ea5b1b6337924f94682440c6f6a"
+    },
+    {
+      "file": "O2_nk",
+      "bytes": 4142,
+      "sha256": "55d566018fa20fa8f34d1dd1b33e46d005fa26fb00645e4eff8687bc31df42fd"
+    },
+    {
+      "file": "O3_nk",
+      "bytes": 208280,
+      "sha256": "08a7502f55d2780ff9a93eb0cd7241781009e5460bad18505a66b4e5ab57f723"
+    },
+    {
+      "file": "O3s_nk",
+      "bytes": 40344,
+      "sha256": "470d3023d3dee9211db6df99e8f9dd9f9a3664acac0052e8bef7384c00f07431"
+    },
+    {
+      "file": "O3x_nk",
+      "bytes": 167936,
+      "sha256": "3f5ab97c6a8e380f68379d80b1f489c02d249c4d387eb4408f86575f00885925"
+    },
+    {
+      "file": "O3y_nk",
+      "bytes": 167936,
+      "sha256": "200b3b6b390ed2d2624ba10e8ca00c81a12e253fc7bc6890fcf889436cc3b5c9"
+    },
+    {
+      "file": "O3z_nk",
+      "bytes": 167936,
+      "sha256": "ff9fc6a1b59aa916ab42479cc1f5d2b2ca031fc6dab02ae1d97abd396dd1f5d7"
+    },
+    {
+      "file": "O4_nk",
+      "bytes": 54120,
+      "sha256": "768ca5d6d66e1b2f81c1e7bb28bab2e4e062b36fff0313710d73b05a88cfa632"
+    },
+    {
+      "file": "ol_kfunc",
+      "bytes": 19120,
+      "sha256": "df10d1c6ec6185bd2e730b83c2fb1ffe200614ece5649629bfc8e1b23763f129"
+    },
+    {
+      "file": "opx_kfunc",
+      "bytes": 19209,
+      "sha256": "06d352bdf8fe6f5c3d7fae491edc0a623220ef99abc9e2cbdc7e292e9e70bf8c"
+    },
+    {
+      "file": "P1_nk",
+      "bytes": 551,
+      "sha256": "00b7ea645dec4b73098802c6b0dd86ef78b44306422ca73efeaaaeffdbbc91b1"
+    },
+    {
+      "file": "P2_nk",
+      "bytes": 4130,
+      "sha256": "c8409b1679d1edebe3fe8c61f87be219adbf3c4c8194adec8dccee915b88efc9"
+    },
+    {
+      "file": "P3_nk",
+      "bytes": 4117,
+      "sha256": "b6da4aca947e60802ee127e06f70c7a1a7ea495e8cf682aa06961a2f9658d613"
+    },
+    {
+      "file": "P4_nk",
+      "bytes": 4118,
+      "sha256": "e99d6d23beed53efb964f1d597d699f714cf7fd2f6ce4957e14bd76542c0de69"
+    },
+    {
+      "file": "P5_nk",
+      "bytes": 4118,
+      "sha256": "2b6129412e1973bb18504bac32bf1f02f8c27e91a475cd973f4b6bfed0f84355"
+    },
+    {
+      "file": "P6_nk",
+      "bytes": 4106,
+      "sha256": "97c3e03fa3dc4762c944f8562fdb5b1b379132a6eaf91c421b42acd88d361562"
+    },
+    {
+      "file": "P7_nk",
+      "bytes": 4108,
+      "sha256": "a753e2a2a09dcc05e7975f694bafd52c1e86d27bed765d1ae9a583f2d100e53b"
+    },
+    {
+      "file": "P8_nk",
+      "bytes": 4103,
+      "sha256": "23a44239411440f4293e60c0df9961af276f1ce68e275e0f3f1077e7e3eac8de"
+    },
+    {
+      "file": "Pg100_nk",
+      "bytes": 6801,
+      "sha256": "91209259c3a00d5fd99f7dc86356ff910a0aed114df5af84b21c827828ba5cf3"
+    },
+    {
+      "file": "Pg100_nk.txt",
+      "bytes": 6801,
+      "sha256": "0bb6a349fc26443f41550b90616b44692001a79095c5b4ddcf865e5b4bf5fd22"
+    },
+    {
+      "file": "Pg10_nk",
+      "bytes": 6784,
+      "sha256": "ea882059529f38b06b80fda16803ac628d0eb237142f629c902267f1cf6e3771"
+    },
+    {
+      "file": "Pg10_nk.txt",
+      "bytes": 6784,
+      "sha256": "b27d71bd17fd8c85bd1b3d5339aa943242cd8e39f3770cc7ed73d170734d791d"
+    },
+    {
+      "file": "Pg200_nk",
+      "bytes": 6805,
+      "sha256": "5ee53650255836e05e0fa6bd0b77fd0f62d93e82d58eafb51b19b749fac7baa6"
+    },
+    {
+      "file": "Pg200_nk.txt",
+      "bytes": 6805,
+      "sha256": "937194afc8655274e894254306351eb33997d4cfe3469fb93c112fbb545fc481"
+    },
+    {
+      "file": "Pg300_nk",
+      "bytes": 6809,
+      "sha256": "a24b96a54976cd6e86e94dce35e9bfa12aa3ad686e385e4019e574173074baee"
+    },
+    {
+      "file": "Pg300_nk.txt",
+      "bytes": 6809,
+      "sha256": "95bed9c0c2755f0292f87948790c42a53b9132c96070beae61296952b3b91d9f"
+    },
+    {
+      "file": "pgrev.pro",
+      "bytes": 420,
+      "sha256": "48a1cac993fdf07c94cc91005e43b6663eeddf4514a187babe383b329b16dc08"
+    },
+    {
+      "file": "rdamm.pro",
+      "bytes": 495,
+      "sha256": "dc31d35935fc94d076275e36b5bd0dc74790948dba289bab95e2b277b1a13412"
+    },
+    {
+      "file": "rdserp.pro",
+      "bytes": 1460,
+      "sha256": "7b63b159244294f5588ec3c1a6de583f4983090b5e2662b74153ef0508865f99"
+    },
+    {
+      "file": "rouleau&martin.txt",
+      "bytes": 1338,
+      "sha256": "cfe28e27e9478b96d60a79fa71d9a6922c5d07deee3a2f58b6f5d81a3a7b1492"
+    },
+    {
+      "file": "S_k",
+      "bytes": 2014,
+      "sha256": "d0617cc37507879bf7982eb961fb2a13a2ab8ed9f2b629e7e668c78eca54084c"
+    },
+    {
+      "file": "S_n",
+      "bytes": 2014,
+      "sha256": "78df78ae5886e580318567e4d80f89f15569127445d4774337656c7b2b6248b0"
+    },
+    {
+      "file": "sd_k",
+      "bytes": 312,
+      "sha256": "53e467928ee99b033539b37d9ab66eba73f4ac999fd05f084b8e2b98e849cc62"
+    },
+    {
+      "file": "sd_n",
+      "bytes": 158,
+      "sha256": "eed81ed52fb104407122ec92bdc3bf6560e5fa6b8d7997a4332ffa975744e55d"
+    },
+    {
+      "file": "se_k",
+      "bytes": 312,
+      "sha256": "53e467928ee99b033539b37d9ab66eba73f4ac999fd05f084b8e2b98e849cc62"
+    },
+    {
+      "file": "se_n",
+      "bytes": 272,
+      "sha256": "895a1878360b9a85e3a4967a7882a694317f3bee6f059a2c1df46830ac4f4693"
+    },
+    {
+      "file": "serp_chlor_mooney85",
+      "bytes": 10272,
+      "sha256": "3020f3f29e68b80cbfdb93de7dd81d728de5a77855bbdcaae4932f3bcbd760eb"
+    },
+    {
+      "file": "sf_k",
+      "bytes": 331,
+      "sha256": "6e4d6b170f8501cc96656e9baa57ba6f4ef60a925115ed12ffbc7aac9efc40d3"
+    },
+    {
+      "file": "sf_n",
+      "bytes": 285,
+      "sha256": "4ae9d51307d20f043b8c9cbd772d01b56da027063c709ad6d92208ed8162430d"
+    },
+    {
+      "file": "sg_k",
+      "bytes": 312,
+      "sha256": "9072eefba2061819848bb22430bd9dc403dd07b57606ba8b1b4b415c57f03a3d"
+    },
+    {
+      "file": "sg_n",
+      "bytes": 270,
+      "sha256": "60b2ccca1bc5f5830a8d0e09f2abb2836d6d9e0401d2c5c2f1696fe78c008e62"
+    },
+    {
+      "file": "sh_k",
+      "bytes": 254,
+      "sha256": "984bcbd79eebfbf62e07eecd7176dbea5252be5abfa1ca4e300689f6eb7d09d5"
+    },
+    {
+      "file": "sh_n",
+      "bytes": 223,
+      "sha256": "e3ad7ebda0dacb066360fa627d44785177e601a76a094cfa2c2241d93b5b764b"
+    },
+    {
+      "file": "Si_nk",
+      "bytes": 22719,
+      "sha256": "b619fd4ce24169b59dad09e5eb75b3d73282908ac58b6fdcddedfb918005bdcc"
+    },
+    {
+      "file": "Sk_nk",
+      "bytes": 22714,
+      "sha256": "ed92a1f4f2589a0fe409b652f641168cdb0479791d3f4956af5abf2e58313811"
+    },
+    {
+      "file": "Spin_nk",
+      "bytes": 167936,
+      "sha256": "d01fbdd94ffa3e20dfbfdd2dd09ae7e515bfa0493016ab3d72d9ae23af4d505c"
+    },
+    {
+      "file": "spinel_mgal2o4_oc.txt",
+      "bytes": 2831,
+      "sha256": "d4d0696ffc92ea83a2b3767dcd1c5d19a3059b31f838a408bce861fadbe49eaf"
+    },
+    {
+      "file": "Ss_nk",
+      "bytes": 22785,
+      "sha256": "1f2e8720c28e712900a514b35d72acb0d2db20a5790ec912112c0e46be15709d"
+    },
+    {
+      "file": "Sx_nk",
+      "bytes": 22715,
+      "sha256": "74d3297b249339ae8a5c259c56defc962796e7a19dfe52ce7de86bb5fc71c2ad"
+    },
+    {
+      "file": "Sz_nk",
+      "bytes": 22787,
+      "sha256": "19ec2c58fee073e8dbe7a7edb7e0b9e9d39747f837ec0c46a9371922e7eddf72"
+    },
+    {
+      "file": "T_Hir_nk",
+      "bytes": 322383,
+      "sha256": "319b47d989762ef49f6fa7a43159ae0eb2f280406296ad5bfd12dfa154eda6da"
+    },
+    {
+      "file": "T_k",
+      "bytes": 1071,
+      "sha256": "a35be0e80d790e0574dc011c3fac4add83615a354b92e4603f3d6ab4d5ee7cbb"
+    },
+    {
+      "file": "T_n",
+      "bytes": 1049,
+      "sha256": "2a2f8c09c52a9becde6506e2450358dacc171dece2d9151b4c7e02984959d7cf"
+    },
+    {
+      "file": "TagishLake_nk.txt",
+      "bytes": 117415,
+      "sha256": "920fc146e416e5357d214f5eb3f024b8f8f3846f708d4d93c6364019803c59c2"
+    },
+    {
+      "file": "Titantholin_Hiroshi.txt",
+      "bytes": 243057,
+      "sha256": "9bcda28d81511722d8d1e1b5dd9babdef9d454ddc41eb7255edffccc120dc82a"
+    },
+    {
+      "file": "TL_nk",
+      "bytes": 108814,
+      "sha256": "715ee22387f6ec06082ad577bf35aea0198a4e88cb4046b679ddfd8172085e5f"
+    },
+    {
+      "file": "trit_opcon",
+      "bytes": 13138,
+      "sha256": "a984199d929295c2111ab2554bc35226158b146671ffebebed2d0e921c929363"
+    },
+    {
+      "file": "trit_opcon_orig",
+      "bytes": 13821,
+      "sha256": "98830ec77cc7d40456d2a943eb90c752a741e8f1fd0cddfd01af5c64579f0b57"
+    },
+    {
+      "file": "tt_k",
+      "bytes": 5851,
+      "sha256": "761c89680ba134605654afcbbe5ee90d5eef41f2ea071b1d64afa3a4d72823f2"
+    },
+    {
+      "file": "tt_n",
+      "bytes": 2909,
+      "sha256": "5a5696262ccfa1072004d3912ee3b9c0d2e134d325b7e897e8ad31a3eb978509"
+    },
+    {
+      "file": "U1_nk",
+      "bytes": 7800,
+      "sha256": "45fa963aa5f13af10d959474adee494a4c5687bc77f22393c25317d65114ffa1"
+    },
+    {
+      "file": "U2_nk",
+      "bytes": 7800,
+      "sha256": "fd8438ea822c9e23a8023ca392fea9036271f17643fb6b3aec6800668ffb81d2"
+    },
+    {
+      "file": "W_k",
+      "bytes": 2861,
+      "sha256": "312e592ac82407a1848c433cd96da7e082ac0af351ccf5f6aa560cd87b96b5b1"
+    },
+    {
+      "file": "W_n",
+      "bytes": 1660,
+      "sha256": "1fa954a7805074f9d6b23a90dca4949b8643db89dc562843b32c846b73c92796"
+    },
+    {
+      "file": "wrt_hudg.pro",
+      "bytes": 1091,
+      "sha256": "658267be07d41a49d1ba3f6d914ed830d867b7fa03ca109a951935a7d5a7d366"
+    },
+    {
+      "file": "wrt_lucey.pro",
+      "bytes": 610,
+      "sha256": "ba2c6e9d64eac8f9d51390fc41df327151b150b9b55e1052b4ea5cb8c44b63ba"
+    },
+    {
+      "file": "wrt_opcon.pro",
+      "bytes": 387,
+      "sha256": "f9a184abf051621b661790da7b5c26b322cfe740a5f6c87e268ba1f21cbdb1e6"
+    },
+    {
+      "file": "wrtch3oh.pro",
+      "bytes": 1339,
+      "sha256": "786d892a1d80f278f59bb131afa024b4431e574e014d38ca5f08828d2242f1ec"
+    },
+    {
+      "file": "wrtch4.pro",
+      "bytes": 1209,
+      "sha256": "32a52fc05624dab268713af75035448494b15b5808e60a58f4147ab274c5fe35"
+    },
+    {
+      "file": "wrtch4_hudg.pro",
+      "bytes": 1074,
+      "sha256": "d7123b4d3f4fda59838a60ce7b826c5bc0436fe0bcbb674f1be42ccc3f23fbe8"
+    },
+    {
+      "file": "wrtco2_hudg.pro",
+      "bytes": 1010,
+      "sha256": "809614988d96c3c45adada5401de43ddff8a61cb96be0d83f3065775a6f7911e"
+    },
+    {
+      "file": "wrth2o.pro",
+      "bytes": 2020,
+      "sha256": "b940ad94e1bc40806f8f63a13b05ebaac7e99c0fb2053b012263c1872625f946"
+    },
+    {
+      "file": "wrtn2.pro",
+      "bytes": 1071,
+      "sha256": "49b9b4f1958094c0d5c5f73d471c3c1b34bd845869717336b72aaa4409ef169e"
+    },
+    {
+      "file": "X_nk",
+      "bytes": 8487,
+      "sha256": "b1962853ee33911d71b219bb602a408e4bd442380bf390cbe23dd47def4b8eae"
+    },
+    {
+      "file": "Xa_nk",
+      "bytes": 21654,
+      "sha256": "df37bede11da6f6d91f1a081e159cb92e1c6db9f041d01fe674339977c51aeea"
+    },
+    {
+      "file": "Y1_nk",
+      "bytes": 7800,
+      "sha256": "26436d0da85f3988bf85240c0daf6d995d86ddff40d007306e076c50466762ba"
+    },
+    {
+      "file": "Y2_nk",
+      "bytes": 7800,
+      "sha256": "221676301f3bff41bc3013cb13f3e85a997644af16adb75aa48470ddda70e4ff"
+    },
+    {
+      "file": "Y3_nk",
+      "bytes": 7800,
+      "sha256": "22c9dd267bdb7f67800abcc58899a869661f2ee7d0ba3c9657978c48c95995cc"
+    },
+    {
+      "file": "Z_nk",
+      "bytes": 8487,
+      "sha256": "d06e4ca373c790913c0ef66cd5382abbd8be5da21d30c47aab289ce5dba22730"
+    },
+    {
+      "file": "Za_nk",
+      "bytes": 21762,
+      "sha256": "e158111b86d5ac1ea6792dd2fe942491ddb5807ed5c5ae1ef0664d92acb5adc5"
+    }
+  ],
+  "materials": [
+    {
+      "code": "A",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 101,
+      "wavelength_min": 1.462,
+      "wavelength_max": 3.0,
+      "n_min": 1.4,
+      "n_max": 1.4,
+      "k_min": 5.8e-05,
+      "k_max": 1.061347,
+      "zero_k": 0
+    },
+    {
+      "code": "B",
+      "status": "requires_review",
+      "issue_category": "source_file_unavailable",
+      "reason": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\2017j\\\\Downloads\\\\opcon\\\\B_n'"
+    },
+    {
+      "code": "C",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 149,
+      "wavelength_min": 0.1,
+      "wavelength_max": 5.0,
+      "n_min": 0.444,
+      "n_max": 3.855,
+      "k_min": 6.75e-07,
+      "k_max": 3.01,
+      "zero_k": 0
+    },
+    {
+      "code": "D",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 23,
+      "wavelength_min": 0.41,
+      "wavelength_max": 5.003,
+      "n_min": 1.879,
+      "n_max": 3.131,
+      "k_min": 0.759,
+      "k_max": 0.804,
+      "zero_k": 0
+    },
+    {
+      "code": "D1",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 87,
+      "wavelength_min": 0.308,
+      "wavelength_max": 41.046,
+      "n_min": 1.693,
+      "n_max": 4.415,
+      "k_min": 0.6837,
+      "k_max": 1.589,
+      "zero_k": 0
+    },
+    {
+      "code": "D1000",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 73,
+      "wavelength_min": 0.199525,
+      "wavelength_max": 794.281,
+      "n_min": 0.9242,
+      "n_max": 9.429,
+      "k_min": 0.1676,
+      "k_max": 18.51,
+      "zero_k": 0
+    },
+    {
+      "code": "D2",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 87,
+      "wavelength_min": 0.308,
+      "wavelength_max": 41.046,
+      "n_min": 1.965,
+      "n_max": 2.552,
+      "k_min": 0.1941,
+      "k_max": 0.2496,
+      "zero_k": 0
+    },
+    {
+      "code": "D400",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 69,
+      "wavelength_min": 0.199525,
+      "wavelength_max": 518.25,
+      "n_min": 0.9146,
+      "n_max": 1.79,
+      "k_min": 0.0255545,
+      "k_max": 0.5557,
+      "zero_k": 0
+    },
+    {
+      "code": "D600",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 68,
+      "wavelength_min": 0.199525,
+      "wavelength_max": 451.773,
+      "n_min": 0.7502,
+      "n_max": 2.007,
+      "k_min": 0.00942447,
+      "k_max": 0.7807,
+      "zero_k": 0
+    },
+    {
+      "code": "D800",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 71,
+      "wavelength_min": 0.177828,
+      "wavelength_max": 562.43,
+      "n_min": 0.735,
+      "n_max": 7.398,
+      "k_min": 0.073875,
+      "k_max": 8.003,
+      "zero_k": 0
+    },
+    {
+      "code": "En",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 808,
+      "wavelength_min": 2.0,
+      "wavelength_max": 98.913,
+      "n_min": 0.510535,
+      "n_max": 3.72649,
+      "k_min": 0.0127467,
+      "k_max": 2.12462,
+      "zero_k": 0
+    },
+    {
+      "code": "Fa",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 6666,
+      "wavelength_min": 0.4,
+      "wavelength_max": 10000.0,
+      "n_min": 0.3541,
+      "n_max": 5.05024,
+      "k_min": 2.39333e-05,
+      "k_max": 4.82435,
+      "zero_k": 0
+    },
+    {
+      "code": "Fays",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2000,
+      "wavelength_min": 0.4,
+      "wavelength_max": 10.0,
+      "n_min": 0.72896,
+      "n_max": 1.85145,
+      "k_min": 0.000751,
+      "k_max": 0.288962,
+      "zero_k": 0
+    },
+    {
+      "code": "Fe",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 51,
+      "wavelength_min": 0.666667,
+      "wavelength_max": 200.0,
+      "n_min": 1.2211,
+      "n_max": 436.989,
+      "k_min": 8.07979,
+      "k_max": 485.199,
+      "zero_k": 0
+    },
+    {
+      "code": "Fe12",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "Fe1jc",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "G",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 70,
+      "wavelength_min": 0.3,
+      "wavelength_max": 40.0,
+      "n_min": 2.2315,
+      "n_max": 10.3103,
+      "k_min": 1.1291937,
+      "k_max": 11.9200344,
+      "zero_k": 0
+    },
+    {
+      "code": "Gbei",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.7699,
+      "n_max": 2.1663,
+      "k_min": 0.0107,
+      "k_max": 1.275,
+      "zero_k": 0
+    },
+    {
+      "code": "Gcro",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 1.1037,
+      "n_max": 2.7852,
+      "k_min": 0.0594,
+      "k_max": 1.3918,
+      "zero_k": 0
+    },
+    {
+      "code": "Ghal",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.4708,
+      "n_max": 2.6831,
+      "k_min": 0.0123,
+      "k_max": 1.9537,
+      "zero_k": 0
+    },
+    {
+      "code": "Ghec",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.7112,
+      "n_max": 2.9845,
+      "k_min": 0.0033,
+      "k_max": 2.5447,
+      "zero_k": 0
+    },
+    {
+      "code": "Gill",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.6703,
+      "n_max": 2.5885,
+      "k_min": 0.0057,
+      "k_max": 1.6595,
+      "zero_k": 0
+    },
+    {
+      "code": "Gillsme",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.7412,
+      "n_max": 2.3218,
+      "k_min": 0.0173,
+      "k_max": 1.3478,
+      "zero_k": 0
+    },
+    {
+      "code": "Gkao",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.3218,
+      "n_max": 3.0714,
+      "k_min": 0.0012,
+      "k_max": 2.3945,
+      "zero_k": 0
+    },
+    {
+      "code": "Gmon",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.6001,
+      "n_max": 3.1521,
+      "k_min": 0.0035,
+      "k_max": 2.3013,
+      "zero_k": 0
+    },
+    {
+      "code": "Gnon",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.7131,
+      "n_max": 2.7582,
+      "k_min": 0.003,
+      "k_max": 1.6391,
+      "zero_k": 0
+    },
+    {
+      "code": "Gsap",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.8504,
+      "n_max": 2.3661,
+      "k_min": 0.052,
+      "k_max": 1.5986,
+      "zero_k": 0
+    },
+    {
+      "code": "Gser",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 986,
+      "wavelength_min": 5.00045,
+      "wavelength_max": 99.7205,
+      "n_min": 0.7151,
+      "n_max": 2.8074,
+      "k_min": 0.008,
+      "k_max": 1.7914,
+      "zero_k": 0
+    },
+    {
+      "code": "H",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 460,
+      "wavelength_min": 0.04,
+      "wavelength_max": 40.0,
+      "n_min": 0.09,
+      "n_max": 2.13,
+      "k_min": 0.0207,
+      "k_max": 0.73,
+      "zero_k": 0
+    },
+    {
+      "code": "I",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 289,
+      "wavelength_min": 0.06,
+      "wavelength_max": 40.0,
+      "n_min": 0.912,
+      "n_max": 1.82,
+      "k_min": 0.0007,
+      "k_max": 0.781,
+      "zero_k": 0
+    },
+    {
+      "code": "J",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 0.974,
+      "n_max": 1.597,
+      "k_min": 0.0001884,
+      "k_max": 0.05991,
+      "zero_k": 0
+    },
+    {
+      "code": "J2",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.457,
+      "n_max": 1.614,
+      "k_min": 0.002458,
+      "k_max": 0.06003,
+      "zero_k": 0
+    },
+    {
+      "code": "J3",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.618,
+      "n_max": 1.749,
+      "k_min": 0.00014,
+      "k_max": 0.06061,
+      "zero_k": 0
+    },
+    {
+      "code": "J4",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.607,
+      "n_max": 1.732,
+      "k_min": 0.0002849,
+      "k_max": 0.06146,
+      "zero_k": 0
+    },
+    {
+      "code": "J5",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.522,
+      "n_max": 1.619,
+      "k_min": 0.0001415,
+      "k_max": 0.04716,
+      "zero_k": 0
+    },
+    {
+      "code": "J6",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.417,
+      "n_max": 1.487,
+      "k_min": 0.0001545,
+      "k_max": 0.04142,
+      "zero_k": 0
+    },
+    {
+      "code": "J7",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.346,
+      "n_max": 1.434,
+      "k_min": 8.967e-05,
+      "k_max": 0.05212,
+      "zero_k": 0
+    },
+    {
+      "code": "Jp1",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.553,
+      "n_max": 1.666,
+      "k_min": 0.001746,
+      "k_max": 0.0632,
+      "zero_k": 0
+    },
+    {
+      "code": "K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 110,
+      "wavelength_min": 0.4,
+      "wavelength_max": 25.0,
+      "n_min": 1.58,
+      "n_max": 1.85,
+      "k_min": 0.011,
+      "k_max": 0.408,
+      "zero_k": 0
+    },
+    {
+      "code": "M",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 272,
+      "wavelength_min": 0.0711,
+      "wavelength_max": 40.0,
+      "n_min": 0.833,
+      "n_max": 2.352,
+      "k_min": 0.01,
+      "k_max": 1.19,
+      "zero_k": 0
+    },
+    {
+      "code": "Mag",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 401,
+      "wavelength_min": 0.1,
+      "wavelength_max": 1000.0,
+      "n_min": 0.96397,
+      "n_max": 19.96057,
+      "k_min": 0.51825,
+      "k_max": 19.41327,
+      "zero_k": 0
+    },
+    {
+      "code": "N",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2,
+      "wavelength_min": 0.2,
+      "wavelength_max": 1.0,
+      "n_min": 1.2,
+      "n_max": 1.2,
+      "k_min": 1e-10,
+      "k_max": 1e-10,
+      "zero_k": 0
+    },
+    {
+      "code": "O1",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 1.11797,
+      "n_max": 3.1,
+      "k_min": 0.008616,
+      "k_max": 1.35215,
+      "zero_k": 0
+    },
+    {
+      "code": "O2",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 1.316107,
+      "n_max": 3.13,
+      "k_min": 0.020392,
+      "k_max": 1.367592,
+      "zero_k": 0
+    },
+    {
+      "code": "O3",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 5080,
+      "wavelength_min": 0.199878,
+      "wavelength_max": 8190.01,
+      "n_min": 0.397518,
+      "n_max": 4.54611,
+      "k_min": 4.4e-06,
+      "k_max": 3.45034,
+      "zero_k": 0
+    },
+    {
+      "code": "O3s",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 984,
+      "wavelength_min": 0.199878,
+      "wavelength_max": 2.0,
+      "n_min": 1.61938,
+      "n_max": 1.88505,
+      "k_min": 4.4e-06,
+      "k_max": 0.0378517,
+      "zero_k": 0
+    },
+    {
+      "code": "O4",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 1320,
+      "wavelength_min": 7.0,
+      "wavelength_max": 40.0,
+      "n_min": 0.477701,
+      "n_max": 4.97669,
+      "k_min": 0.00926448,
+      "k_max": 3.58638,
+      "zero_k": 0
+    },
+    {
+      "code": "P1",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 29,
+      "wavelength_min": 0.4,
+      "wavelength_max": 5.0,
+      "n_min": 1.54,
+      "n_max": 1.68,
+      "k_min": 0.0028,
+      "k_max": 0.0073,
+      "zero_k": 0
+    },
+    {
+      "code": "P2",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 0.927277,
+      "n_max": 2.58,
+      "k_min": 2e-05,
+      "k_max": 1.10711,
+      "zero_k": 0
+    },
+    {
+      "code": "P3",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 0.885859,
+      "n_max": 2.55894,
+      "k_min": 0.0001,
+      "k_max": 1.08695,
+      "zero_k": 0
+    },
+    {
+      "code": "P4",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 0.933983,
+      "n_max": 2.63603,
+      "k_min": 0.000965,
+      "k_max": 1.09176,
+      "zero_k": 0
+    },
+    {
+      "code": "P5",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 0.973704,
+      "n_max": 2.69301,
+      "k_min": 0.00134,
+      "k_max": 1.09986,
+      "zero_k": 0
+    },
+    {
+      "code": "P6",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 1.01131,
+      "n_max": 2.72706,
+      "k_min": 0.001933,
+      "k_max": 1.15278,
+      "zero_k": 0
+    },
+    {
+      "code": "P7",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 1.02252,
+      "n_max": 2.69035,
+      "k_min": 0.002325,
+      "k_max": 1.17188,
+      "zero_k": 0
+    },
+    {
+      "code": "P8",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 109,
+      "wavelength_min": 0.2,
+      "wavelength_max": 500.0,
+      "n_min": 1.01826,
+      "n_max": 2.73961,
+      "k_min": 0.005457,
+      "k_max": 1.34549,
+      "zero_k": 0
+    },
+    {
+      "code": "S",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 106,
+      "wavelength_min": 0.0228,
+      "wavelength_max": 2000.0,
+      "n_min": 0.776,
+      "n_max": 3.44,
+      "k_min": 0.0246,
+      "k_max": 1.13,
+      "zero_k": 0
+    },
+    {
+      "code": "Si",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 471,
+      "wavelength_min": 0.2636,
+      "wavelength_max": 2.976,
+      "n_min": 1.538027,
+      "n_max": 1.597603,
+      "k_min": 0.0010693961023857084,
+      "k_max": 0.33247924387704064,
+      "zero_k": 0
+    },
+    {
+      "code": "Sk",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 478,
+      "wavelength_min": 0.2211,
+      "wavelength_max": 2.976,
+      "n_min": 1.500514,
+      "n_max": 1.559548,
+      "k_min": 6.891127196348094e-06,
+      "k_max": 0.40101237747944457,
+      "zero_k": 0
+    },
+    {
+      "code": "Spin",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 4096,
+      "wavelength_min": 1.66667,
+      "wavelength_max": 6825.94,
+      "n_min": 0.327647,
+      "n_max": 12.3569,
+      "k_min": 4.1e-05,
+      "k_max": 6.80088,
+      "zero_k": 0
+    },
+    {
+      "code": "Ss",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 478,
+      "wavelength_min": 0.2211,
+      "wavelength_max": 2.976,
+      "n_min": 1.471092,
+      "n_max": 1.528968,
+      "k_min": 2.4197930029418182e-05,
+      "k_max": 0.2943307808289574,
+      "zero_k": 0
+    },
+    {
+      "code": "Sx",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [
+        [
+          0.835,
+          0.851
+        ]
+      ],
+      "rows": 461,
+      "wavelength_min": 0.2636,
+      "wavelength_max": 2.688,
+      "n_min": 1.544353,
+      "n_max": 1.597603,
+      "k_min": 0.00014628748816300494,
+      "k_max": 0.005004534346951302,
+      "zero_k": 0
+    },
+    {
+      "code": "Sz",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [
+        [
+          0.835,
+          0.851
+        ]
+      ],
+      "rows": 476,
+      "wavelength_min": 0.2291,
+      "wavelength_max": 2.976,
+      "n_min": 1.500514,
+      "n_max": 1.559376,
+      "k_min": 0.00015002242311441954,
+      "k_max": 0.05205337795921414,
+      "zero_k": 0
+    },
+    {
+      "code": "T",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 90,
+      "wavelength_min": 0.0207,
+      "wavelength_max": 920.0,
+      "n_min": 0.802,
+      "n_max": 2.17,
+      "k_min": 0.0004,
+      "k_max": 0.77,
+      "zero_k": 0
+    },
+    {
+      "code": "TL",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2654,
+      "wavelength_min": 0.305,
+      "wavelength_max": 25.9207,
+      "n_min": 1.68274,
+      "n_max": 1.77712,
+      "k_min": 0.0011658,
+      "k_max": 0.047419,
+      "zero_k": 0
+    },
+    {
+      "code": "T_Hir",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 7863,
+      "wavelength_min": 0.188,
+      "wavelength_max": 24.96,
+      "n_min": 1.1371,
+      "n_max": 1.7813,
+      "k_min": 0.00034,
+      "k_max": 0.6597,
+      "zero_k": 0
+    },
+    {
+      "code": "Tr",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 509,
+      "wavelength_min": 0.04959,
+      "wavelength_max": 123.98,
+      "n_min": 0.86617,
+      "n_max": 1.8878,
+      "k_min": 3.1478e-06,
+      "k_max": 0.79687,
+      "zero_k": 0
+    },
+    {
+      "code": "U1",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.012,
+      "n_max": 1.707,
+      "k_min": 0.01346,
+      "k_max": 0.5813,
+      "zero_k": 0
+    },
+    {
+      "code": "U2",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.313,
+      "n_max": 1.56,
+      "k_min": 0.006729,
+      "k_max": 0.08494,
+      "zero_k": 0
+    },
+    {
+      "code": "W",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 226,
+      "wavelength_min": 0.059,
+      "wavelength_max": 43.58,
+      "n_min": 0.8776,
+      "n_max": 1.6502,
+      "k_min": 1.54e-09,
+      "k_max": 0.625,
+      "zero_k": 0
+    },
+    {
+      "code": "X",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "Xa",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "Y1",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.522,
+      "n_max": 1.602,
+      "k_min": 0.01181,
+      "k_max": 0.04663,
+      "zero_k": 0
+    },
+    {
+      "code": "Y2",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.499,
+      "n_max": 1.561,
+      "k_min": 0.01062,
+      "k_max": 0.09407,
+      "zero_k": 0
+    },
+    {
+      "code": "Y3",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 300,
+      "wavelength_min": 0.3,
+      "wavelength_max": 4.0,
+      "n_min": 1.507,
+      "n_max": 1.597,
+      "k_min": 0.00329,
+      "k_max": 0.03827,
+      "zero_k": 0
+    },
+    {
+      "code": "Z",
+      "status": "requires_review",
+      "issue_category": "nonphysical_refractive_index",
+      "reason": "n must be finite and positive"
+    },
+    {
+      "code": "Za",
+      "status": "requires_review",
+      "issue_category": "nonphysical_refractive_index",
+      "reason": "n must be finite and positive"
+    },
+    {
+      "code": "a",
+      "status": "requires_review",
+      "issue_category": "source_file_unavailable",
+      "reason": "Material filename case mismatch: a_n; refusing a different material"
+    },
+    {
+      "code": "amorph_100K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8858,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 22.108926,
+      "n_min": 0.92387824,
+      "n_max": 1.7819037,
+      "k_min": 3.0039005e-07,
+      "k_max": 0.71830567,
+      "zero_k": 0
+    },
+    {
+      "code": "amorph_120K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8861,
+      "wavelength_min": 1.1111365,
+      "wavelength_max": 22.227409,
+      "n_min": 0.92826731,
+      "n_max": 1.7885971,
+      "k_min": 1.9216962e-07,
+      "k_max": 0.72339127,
+      "zero_k": 0
+    },
+    {
+      "code": "amorph_15K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8858,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 22.108926,
+      "n_min": 0.99629064,
+      "n_max": 1.7948846,
+      "k_min": 1.0677472e-08,
+      "k_max": 0.46453362,
+      "zero_k": 0
+    },
+    {
+      "code": "amorph_25K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8858,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 22.108926,
+      "n_min": 0.97688455,
+      "n_max": 1.724821,
+      "k_min": 1.0677472e-08,
+      "k_max": 0.50673194,
+      "zero_k": 0
+    },
+    {
+      "code": "amorph_40K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8861,
+      "wavelength_min": 1.1111365,
+      "wavelength_max": 22.227409,
+      "n_min": 0.97589433,
+      "n_max": 1.7440404,
+      "k_min": 1.067689e-08,
+      "k_max": 0.55206391,
+      "zero_k": 0
+    },
+    {
+      "code": "amorph_50K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8861,
+      "wavelength_min": 1.1111365,
+      "wavelength_max": 22.227409,
+      "n_min": 0.95715699,
+      "n_max": 1.7528674,
+      "k_min": 1.067689e-08,
+      "k_max": 0.59920922,
+      "zero_k": 0
+    },
+    {
+      "code": "amorph_60K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8861,
+      "wavelength_min": 1.1111365,
+      "wavelength_max": 22.227409,
+      "n_min": 0.95561385,
+      "n_max": 1.7509122,
+      "k_min": 1.067689e-08,
+      "k_max": 0.61424338,
+      "zero_k": 0
+    },
+    {
+      "code": "amorph_80K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8861,
+      "wavelength_min": 1.1111365,
+      "wavelength_max": 22.227409,
+      "n_min": 0.94728325,
+      "n_max": 1.7718137,
+      "k_min": 1.9216962e-07,
+      "k_max": 0.68305826,
+      "zero_k": 0
+    },
+    {
+      "code": "asphalt",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 1970,
+      "wavelength_min": 2.2222222222222223,
+      "wavelength_max": 14.285714285714286,
+      "n_min": 1.526316634,
+      "n_max": 1.619601125,
+      "k_min": 0.000659671633,
+      "k_max": 0.090337068,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 16594,
+      "wavelength_min": 1.00004,
+      "wavelength_max": 5.00045,
+      "n_min": 1.264202,
+      "n_max": 1.40887,
+      "k_min": 7.958065464480952e-11,
+      "k_max": 0.14313196695232594,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-20",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2633,
+      "wavelength_min": 0.64792,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 5.37709535025088e-10,
+      "k_max": 0.4873205946196176,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-30",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2780,
+      "wavelength_min": 0.64792,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 3.7106967024128245e-10,
+      "k_max": 0.015281738211713006,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-40",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2780,
+      "wavelength_min": 0.64792,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 7.434342250995606e-11,
+      "k_max": 0.015417684385228527,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-50",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2585,
+      "wavelength_min": 0.6555,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 1.1113375873255014e-10,
+      "k_max": 0.015500095451381282,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-60",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2493,
+      "wavelength_min": 0.66135,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 6.909498427555949e-11,
+      "k_max": 0.015579043305972358,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-70",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2452,
+      "wavelength_min": 0.65967,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 9.293400901812849e-11,
+      "k_max": 0.015552727354442,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-80",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2454,
+      "wavelength_min": 0.65862,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 1.2798782157214118e-10,
+      "k_max": 0.015868518772806303,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-90",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2646,
+      "wavelength_min": 0.65883,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 4.966305062552268e-11,
+      "k_max": 0.01551695123309426,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-93",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 2621,
+      "wavelength_min": 0.65883,
+      "wavelength_max": 4.91266,
+      "n_min": 1.33,
+      "n_max": 1.33,
+      "k_min": 8.500198130233735e-11,
+      "k_max": 0.015603917313718305,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-h10K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 3571,
+      "wavelength_min": 3.06344,
+      "wavelength_max": 9.998,
+      "n_min": 0.447,
+      "n_max": 2.089,
+      "k_min": 1.43e-06,
+      "k_max": 1.794,
+      "zero_k": 0
+    },
+    {
+      "code": "ch4-h30K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 4510,
+      "wavelength_min": 2.70292,
+      "wavelength_max": 9.998,
+      "n_min": 0.9,
+      "n_max": 1.834,
+      "k_min": 9.517e-07,
+      "k_max": 0.9332,
+      "zero_k": 0
+    },
+    {
+      "code": "co",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 16594,
+      "wavelength_min": 1.00004,
+      "wavelength_max": 5.00045,
+      "n_min": 0.884686,
+      "n_max": 1.776571,
+      "k_min": 7.958065464480952e-11,
+      "k_max": 0.8267539382310927,
+      "zero_k": 0
+    },
+    {
+      "code": "co2-h10K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 3258,
+      "wavelength_min": 2.50081,
+      "wavelength_max": 19.9968,
+      "n_min": 0.037,
+      "n_max": 3.038,
+      "k_min": 9.537e-07,
+      "k_max": 2.3,
+      "zero_k": 0
+    },
+    {
+      "code": "co2-h30K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 3080,
+      "wavelength_min": 2.50081,
+      "wavelength_max": 19.9968,
+      "n_min": 0.045,
+      "n_max": 3.841,
+      "k_min": 9.537e-07,
+      "k_max": 3.738,
+      "zero_k": 0
+    },
+    {
+      "code": "co2-h50K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 3211,
+      "wavelength_min": 2.50081,
+      "wavelength_max": 19.9968,
+      "n_min": 0.041,
+      "n_max": 4.282,
+      "k_min": 4.768e-07,
+      "k_max": 4.322,
+      "zero_k": 0
+    },
+    {
+      "code": "co2-h70K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 3347,
+      "wavelength_min": 2.50081,
+      "wavelength_max": 19.9968,
+      "n_min": 0.068,
+      "n_max": 4.69,
+      "k_min": 8.396e-07,
+      "k_max": 5.016,
+      "zero_k": 0
+    },
+    {
+      "code": "co2i4a",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 23689,
+      "wavelength_min": 0.052,
+      "wavelength_max": 200000.0,
+      "n_min": 0.13557,
+      "n_max": 3.840301,
+      "k_min": 3.9022803e-10,
+      "k_max": 3.053856,
+      "zero_k": 0
+    },
+    {
+      "code": "cpx",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 461,
+      "wavelength_min": 0.3,
+      "wavelength_max": 2.6,
+      "n_min": 1.6644999999999999,
+      "n_max": 1.6644999999999999,
+      "k_min": 0.00011019325,
+      "k_max": 0.00032745750000000003,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_100K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.92053377,
+      "n_max": 1.9904283,
+      "k_min": 1.0626686e-08,
+      "k_max": 1.0138777,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_110K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.93668479,
+      "n_max": 1.9662283,
+      "k_min": 1.0785246e-08,
+      "k_max": 0.97928651,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_120K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.95204406,
+      "n_max": 1.9413849,
+      "k_min": 1.0596902e-08,
+      "k_max": 0.94549291,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_130K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.95829527,
+      "n_max": 1.9175805,
+      "k_min": 1.0541223e-08,
+      "k_max": 0.91328612,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_140K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.95712852,
+      "n_max": 1.8820016,
+      "k_min": 1.0541223e-08,
+      "k_max": 0.86927947,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_150K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.95712852,
+      "n_max": 1.8820016,
+      "k_min": 1.0541223e-08,
+      "k_max": 0.86927947,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_20K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.81825908,
+      "n_max": 2.112313,
+      "k_min": 1.059576e-08,
+      "k_max": 1.2263214,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_30K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.8221766,
+      "n_max": 2.1080961,
+      "k_min": 1.0572968e-08,
+      "k_max": 1.2180907,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_40K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.82997088,
+      "n_max": 2.1018346,
+      "k_min": 1.0598045e-08,
+      "k_max": 1.2042362,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_50K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8873,
+      "wavelength_min": 0.059,
+      "wavelength_max": 15.002941,
+      "n_min": 0.83875277,
+      "n_max": 2.0893205,
+      "k_min": 1.54e-09,
+      "k_max": 1.1784804,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_60K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.85332088,
+      "n_max": 2.0752196,
+      "k_min": 1.0598045e-08,
+      "k_max": 1.1503671,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_70K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.86967713,
+      "n_max": 2.0568619,
+      "k_min": 1.0746339e-08,
+      "k_max": 1.1175005,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_80K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.88688955,
+      "n_max": 2.0362106,
+      "k_min": 1.0748689e-08,
+      "k_max": 1.0831154,
+      "zero_k": 0
+    },
+    {
+      "code": "crys_90K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 8636,
+      "wavelength_min": 1.1111962,
+      "wavelength_max": 15.002941,
+      "n_min": 0.90372021,
+      "n_max": 2.0140414,
+      "k_min": 1.0748689e-08,
+      "k_max": 1.048799,
+      "zero_k": 0
+    },
+    {
+      "code": "d",
+      "status": "requires_review",
+      "issue_category": "source_file_unavailable",
+      "reason": "Material filename case mismatch: d_nk; refusing a different material"
+    },
+    {
+      "code": "dum001",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 2.4e-05,
+      "k_max": 0.000398,
+      "zero_k": 0
+    },
+    {
+      "code": "dum002",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 4.77465e-05,
+      "k_max": 0.000795775,
+      "zero_k": 0
+    },
+    {
+      "code": "dum005",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 0.000119366,
+      "k_max": 0.00198944,
+      "zero_k": 0
+    },
+    {
+      "code": "dum01",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 0.000238732,
+      "k_max": 0.00397887,
+      "zero_k": 0
+    },
+    {
+      "code": "dum02",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 0.000477465,
+      "k_max": 0.00795775,
+      "zero_k": 0
+    },
+    {
+      "code": "dum05",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 0.00119366,
+      "k_max": 0.0198944,
+      "zero_k": 0
+    },
+    {
+      "code": "dum1",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 0.00238732,
+      "k_max": 0.0397887,
+      "zero_k": 0
+    },
+    {
+      "code": "dum1-",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 0.0238732,
+      "k_max": 0.397887,
+      "zero_k": 0
+    },
+    {
+      "code": "dum10",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 0.238732,
+      "k_max": 3.97887,
+      "zero_k": 0
+    },
+    {
+      "code": "dum100",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 100,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.0,
+      "n_min": 1.55,
+      "n_max": 1.55,
+      "k_min": 2.38732,
+      "k_max": 39.7887,
+      "zero_k": 0
+    },
+    {
+      "code": "h2o",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 16594,
+      "wavelength_min": 1.00004,
+      "wavelength_max": 5.00045,
+      "n_min": 0.959518,
+      "n_max": 1.650223,
+      "k_min": 1.9788973764298083e-06,
+      "k_max": 0.6312589037110806,
+      "zero_k": 0
+    },
+    {
+      "code": "h2o-100",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "h2o-40",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "h2o-70",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "h2o-h100K",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 1795,
+      "wavelength_min": 2.74914,
+      "wavelength_max": 144.00507,
+      "n_min": 0.968,
+      "n_max": 1.897,
+      "k_min": 2.304e-05,
+      "k_max": 0.5817,
+      "zero_k": 0
+    },
+    {
+      "code": "m100",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "m120",
+      "status": "requires_review",
+      "issue_category": "conflicting_duplicate_wavelength",
+      "reason": "Duplicate wavelengths: resolve explicitly in the source data"
+    },
+    {
+      "code": "m90",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 17594,
+      "wavelength_min": 0.3,
+      "wavelength_max": 5.00045,
+      "n_min": 1.284783,
+      "n_max": 1.380044,
+      "k_min": 2.3873240866953266e-10,
+      "k_max": 0.048272165689809576,
+      "zero_k": 0
+    },
+    {
+      "code": "n2-37",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 1361,
+      "wavelength_min": 1.99933,
+      "wavelength_max": 2.30102,
+      "n_min": 1.227,
+      "n_max": 1.227,
+      "k_min": 7.140908863332621e-16,
+      "k_max": 2.722118091990112e-07,
+      "zero_k": 0
+    },
+    {
+      "code": "n2-38",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 1361,
+      "wavelength_min": 1.99933,
+      "wavelength_max": 2.30102,
+      "n_min": 1.227,
+      "n_max": 1.227,
+      "k_min": 2.4415087173174698e-15,
+      "k_max": 2.501544452626592e-07,
+      "zero_k": 0
+    },
+    {
+      "code": "n2-41",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 1361,
+      "wavelength_min": 1.99933,
+      "wavelength_max": 2.30102,
+      "n_min": 1.227,
+      "n_max": 1.227,
+      "k_min": 3.8485831497550714e-15,
+      "k_max": 2.2843905596097927e-07,
+      "zero_k": 0
+    },
+    {
+      "code": "olv",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 459,
+      "wavelength_min": 0.2211,
+      "wavelength_max": 2.4,
+      "n_min": 1.6829999999999998,
+      "n_max": 1.6829999999999998,
+      "k_min": 7.739899999999997e-05,
+      "k_max": 0.0016232375000000002,
+      "zero_k": 0
+    },
+    {
+      "code": "opx",
+      "status": "loaded_and_basic_validation_passed",
+      "documented_gaps": [],
+      "rows": 461,
+      "wavelength_min": 0.3,
+      "wavelength_max": 2.6,
+      "n_min": 1.6795,
+      "n_max": 1.6795,
+      "k_min": 2.5240750000000007e-05,
+      "k_max": 0.00023710124999999996,
+      "zero_k": 0
+    },
+    {
+      "code": "t",
+      "status": "requires_review",
+      "issue_category": "source_file_unavailable",
+      "reason": "Material filename case mismatch: t_n; refusing a different material"
+    }
+  ],
+  "summary": {
+    "status": {
+      "loaded_and_basic_validation_passed": 129,
+      "requires_review": 15
+    },
+    "issue_category": {
+      "source_file_unavailable": 4,
+      "conflicting_duplicate_wavelength": 9,
+      "nonphysical_refractive_index": 2
+    }
+  }
+}

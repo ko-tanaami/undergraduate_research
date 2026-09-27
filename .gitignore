@@ -1,0 +1,6 @@
+.venv/
+.build/
+.fit_deps/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

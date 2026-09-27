@@ -1,0 +1,27 @@
+[project]
+name = "planetary-reflectance"
+version = "0.1.0"
+readme = "README.md"
+description = "Hapke and Shkuratov forward models, fitting, and experimental validation"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2,<3",
+    "pillow>=12.3.0",
+    "scipy>=1.11,<2",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.9",
+]
+notebook = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.2",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+target-version = "py311"
+extend-exclude = [".build", ".fit_deps", "sources", "shkuratov_python/references", "shkuratov_python/説明資料/コード解説"]

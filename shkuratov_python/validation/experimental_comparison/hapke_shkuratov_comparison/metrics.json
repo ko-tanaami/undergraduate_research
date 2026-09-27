@@ -1,0 +1,156 @@
+[
+  {
+    "material": "calcite",
+    "n_k_input": "roush2021_calcite.csv",
+    "wavelength_range_um": [
+      0.5,
+      2.5
+    ],
+    "points": 2001,
+    "effective_path_or_diameter_um": 30.0,
+    "hapke": {
+      "incidence_deg": 0.0,
+      "emergence_deg": 0.0,
+      "phase_function_b": 0.0,
+      "phase_function_c": 0.0,
+      "opposition_amplitude_s0": 0.0,
+      "mean_slope_deg": 0.0,
+      "output": "radiance factor I/F = pi times bidirectional reflectance"
+    },
+    "shkuratov": {
+      "porosity": 0.3,
+      "output": "model_reflectance; photometric equivalence with Hapke I/F not established"
+    },
+    "pearson_hapke_shkuratov": 0.9998994184085633,
+    "pearson_usgs_hapke": 0.9683438022205473,
+    "pearson_usgs_shkuratov": 0.966648438884194,
+    "at_1um": {
+      "usgs": 0.873203,
+      "hapke_I_over_F": 0.7437460245223212,
+      "shkuratov_model_reflectance": 0.7564510720967691
+    },
+    "carbonate_band_2p3um": {
+      "definition": "linear continuum through 2.20 and 2.48 um",
+      "usgs": {
+        "center_um": 2.338,
+        "depth": 0.2736928105226031
+      },
+      "hapke": {
+        "center_um": 2.34,
+        "depth": 0.07971211407812939
+      },
+      "shkuratov": {
+        "center_um": 2.34,
+        "depth": 0.059594605705864834
+      }
+    }
+  },
+  {
+    "material": "dolomite",
+    "n_k_input": "roush2021_dolomite.csv",
+    "wavelength_range_um": [
+      0.5013,
+      2.496
+    ],
+    "points": 371,
+    "effective_path_or_diameter_um": 30.0,
+    "hapke": {
+      "incidence_deg": 0.0,
+      "emergence_deg": 0.0,
+      "phase_function_b": 0.0,
+      "phase_function_c": 0.0,
+      "opposition_amplitude_s0": 0.0,
+      "mean_slope_deg": 0.0,
+      "output": "radiance factor I/F = pi times bidirectional reflectance"
+    },
+    "shkuratov": {
+      "porosity": 0.3,
+      "output": "model_reflectance; photometric equivalence with Hapke I/F not established"
+    },
+    "pearson_hapke_shkuratov": 0.9993468846985604,
+    "pearson_usgs_hapke": 0.8938924468027034,
+    "pearson_usgs_shkuratov": 0.8976428070572138,
+    "at_1um": {
+      "usgs": 0.681104,
+      "hapke_I_over_F": 0.979265356951286,
+      "shkuratov_model_reflectance": 0.9146598489137265
+    },
+    "carbonate_band_2p3um": {
+      "definition": "linear continuum through 2.20 and 2.48 um",
+      "usgs": {
+        "center_um": 2.315,
+        "depth": 0.19506041958415699
+      },
+      "hapke": {
+        "center_um": 2.315,
+        "depth": 0.11205358156363343
+      },
+      "shkuratov": {
+        "center_um": 2.315,
+        "depth": 0.07603434603158676
+      }
+    }
+  },
+  {
+    "material": "magnetite",
+    "n_k_input": "magnetite_Querry1985.yml",
+    "wavelength_range_um": [
+      0.5013,
+      2.496
+    ],
+    "points": 371,
+    "effective_path_or_diameter_um": 30.0,
+    "hapke": {
+      "incidence_deg": 0.0,
+      "emergence_deg": 0.0,
+      "phase_function_b": 0.0,
+      "phase_function_c": 0.0,
+      "opposition_amplitude_s0": 0.0,
+      "mean_slope_deg": 0.0,
+      "output": "radiance factor I/F = pi times bidirectional reflectance"
+    },
+    "shkuratov": {
+      "porosity": 0.3,
+      "output": "model_reflectance; photometric equivalence with Hapke I/F not established"
+    },
+    "pearson_hapke_shkuratov": 0.9997347671014885,
+    "pearson_usgs_hapke": 0.9557634008544424,
+    "pearson_usgs_shkuratov": 0.9544955522213648,
+    "at_1um": {
+      "usgs": 0.04462,
+      "hapke_I_over_F": 0.01919720754155147,
+      "shkuratov_model_reflectance": 0.05762360683877736
+    }
+  },
+  {
+    "material": "serpentine_proxy",
+    "n_k_input": "Sz_nk",
+    "wavelength_range_um": [
+      0.5013,
+      2.496
+    ],
+    "points": 370,
+    "effective_path_or_diameter_um": 30.0,
+    "hapke": {
+      "incidence_deg": 0.0,
+      "emergence_deg": 0.0,
+      "phase_function_b": 0.0,
+      "phase_function_c": 0.0,
+      "opposition_amplitude_s0": 0.0,
+      "mean_slope_deg": 0.0,
+      "output": "radiance factor I/F = pi times bidirectional reflectance"
+    },
+    "shkuratov": {
+      "porosity": 0.3,
+      "output": "model_reflectance; photometric equivalence with Hapke I/F not established"
+    },
+    "pearson_hapke_shkuratov": 0.9998283488675566,
+    "pearson_usgs_hapke": 0.785176767893247,
+    "pearson_usgs_shkuratov": 0.7884702621249584,
+    "at_1um": {
+      "usgs": 0.220191,
+      "hapke_I_over_F": 0.2251977421036358,
+      "shkuratov_model_reflectance": 0.2763491702928971
+    }
+  }
+]

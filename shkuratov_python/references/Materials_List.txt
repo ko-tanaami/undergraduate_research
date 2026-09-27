@@ -1,0 +1,94 @@
+Code      Material        Wavelengths (um)     Reference            Density  Source
+----   --------------     ----------------  ---------------         -------  ------
+       Organics
+ H       Poly-HCN             0.040-40      Khare et al. 1994         1.54   same
+ I       Ice Tholin           0.056-40      Khare et al. 1993
+ K       Kerogen              0.150-40      Khare et al. 1990
+ M       Murchison            0.071-40      Khare et al.
+ T       Titan Tholin         0.021-920     Khare et al. 1984
+ at      Tholin alpha         0.300-2.5     Khare et al. 1987         1.40   same
+ tt      ??? (tholin?)        0.050-40          ?
+ Tr      Triton Tholin        0.050-123     Khare
+       Ices
+ W       Water Ice            0.059-44      Warren 1984               0.92   CRC?
+ N       Nitrogen Ice          (const)          ?                     1.03   CRC
+ A       Ammonia Ice          1.462-10 (k)  Sill et al. 1980
+ C       Carbon Dioxide       0.100-5.0     Warren 1986               1.56   CRC
+       Sulfur
+ sd      Sol Sulfur  25deg    0.400-2.0     Sasson et al. 1985
+ se      Liq Sulfur 121deg    0.400-2.0     Sasson & Arakawa 1986
+ sf      Liq Sulfur 140deg    0.400-2.0     Sasson & Arakawa 1986
+ sg      Liq Sulfur 155deg    0.400-2.0     Sasson & Arakawa 1986
+ sh      Liq Sulfur 183deg    0.400-2.0     Sasson & Arakawa 1986
+       Other
+ S       Astro. Silicate      0.023-2000    Draine 1985               3.30   D&L1984
+
+       Bob Brown
+ch4      Methane              1-5           Bob                       0.45   Khare
+co       Carbon Monoxide      1-5           Bob
+h2o      Water Ice            1-5           Bob                       0.92   CRC?
+m90      Methanol 90K         1-5           Bob                       0.80   CRC
+m120     Methanol 120K        1-5           Bob                       0.80   CRC
+       Hydrated Silicates
+ X       Chlorite             2.5-50        Mooney&Knacke 1985        2.90   CRC
+ Z       Serpentine           2.5-50        Mooney&Knacke 1985        2.55   CRC
+ Si      Illite              0.25-3.0       Roger Clark               2.80   CRC
+ Sk      Kaolinite              ''               ''                   2.65   CRC
+ Ss      Saponite               ''               ''                   2.50   K&H1993
+ Sx      Chlorite               ''               ''                   2.90   CRC
+ Sz      Serpentine             ''               ''                   2.55   CRC
+ Xa      Chlorite            0.25-50        M&K1985 and Clark         2.90   CRC
+ Za      Serpentine             ''                  ''                2.55   CRC
+
+ Gbei    Beidellite            5-100        Glotch                    2.15   webmineral.com
+ Gcro    Cronstedtite           ''            ''                      3.34   ''  
+ Ghal    Halloysite             ''            ''                      2.59   ''  
+ Ghec    Hectorite              ''            ''                      2.5    ''
+ Gill    Illite                 ''            ''                      2.75   ''  
+ Gillsme Illite-smectite        ''            ''                      2.5    ''  
+ Gkao    Kaolinite              ''            ''                      2.6    ''  
+ Gmon    Montmorillonite        ''            ''                      2.35   ''  
+ Gnon    Nontronite             ''            ''                      2.3    ''  
+ Gsap    Saponite               ''            ''                      2.3    ''  
+ Gser    Serpentine             ''            ''                      2.55   ''  
+       Pyroxene (Mg_x,Fe_1-x,SiO3)
+ P1      x=? (~.56, some Ca) 0.40-500       Jaeger et al. 1994
+ P2      x=1                 0.32-500       Dorschner et al. 1995     3.21   CRC (interp)
+ P3      x=0.95              0.34-500               ''                3.25   CRC (interp)
+ P4      x=0.8               0.20-500               ''                3.36   CRC (interp)
+ P5      x=0.7                  ''                  ''                3.43   CRC (interp)
+ P6      x=0.6                  ''                  ''                3.51   CRC (interp)
+ P7      x=0.5                  ''                  ''                3.58   CRC (interp)
+ P8      x=0.4                  ''                  ''                3.68   CRC (interp)
+ Enp     X-lline Enst (para c) 2-99         Jaeger et al. 1998a       3.19   CRC
+ Ens1    X-lline Enst (perp c) 2-99         Jaeger et al. 1998a
+ Ens2    X-lline Enst (perp c) 2-99         Jaeger et al. 1998a
+ En        '' (avg orient)      ''                  ''
+ Pg10    ~P1 comp, T=10K       6.67-487     Henning & Mutschke 1997   3.21
+ Pg100   ~P1 comp, T=100K      6.67-487     Henning & Mutschke 1997   3.21
+ Pg200   ~P1 comp, T=200K      6.67-487     Henning & Mutschke 1997   3.21
+ Pg300   ~P1 comp, T=300K      6.67-487     Henning & Mutschke 1997   3.21
+       Olivine (Mg_2y,Fe_2-2y,SiO4)
+ O1      y=0.5                0.2-500       Dorschner et al. 1995     3.81   CRC (interp)
+ O2      y=0.4                  ''                  ''                3.92   CRC (interp)
+ O3s     X-lline Ol (y=0.95)  0.2-2         Fabian et al. 2001        3.21   CRC
+ O3x     X-lline Ol  (E||x)   2-8190                ''
+ O3y         ''      (E||y)     ''                  ''
+ O3z         ''      (E||z)     ''                  ''
+ O3          '' (avg orient)  0.2-8190
+ O4          ''  (y=0.90)     7-40          Mukai & Koike (1990)      3.25   guess
+ Fays    X-lline Fayalite     0.2-10                ''                4.30   CRC
+ Fayx        ''      (E||x)   2-10000               ''
+ Fayy        ''      (E||y)   2-10000               ''
+ Fayz        ''      (E||z)   2-10000               ''
+ Fa          '' (avg orient)  0.2-10000             ''
+
+       Carbons
+ D       Amorph C (BE)        0.4-5    Preibisch1993 (from R&M1991)   1.81   R&M1991
+ D1      AC (D with more lam) 0.3-40        Rouleau&Martin 1991       1.81   R&M1991
+ D2      Amorph C (AC1)       0.3-40        Rouleau&Martin 1991       1.86     ''
+ G       Graphite             0.3-40        Draine 1985               2.26   Draine
+ D400    Amorph C (ann. 400C) 0.2-520       Jaeger et al 1998b        1.435  Jaeger
+ D600    Amorph C (ann. 600C) 0.2-520       Jaeger et al 1998b        1.670  Jaeger
+ D800    Amorph C (ann. 800C) 0.2-520       Jaeger et al 1998b        1.843  Jaeger
+ D1000   Amorph C (ann.1000C) 0.2-520       Jaeger et al 1998b        1.988  Jaeger

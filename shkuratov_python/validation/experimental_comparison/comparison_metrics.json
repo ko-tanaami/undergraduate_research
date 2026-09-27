@@ -1,0 +1,128 @@
+[
+  {
+    "material": "calcite",
+    "sample": "calcite_gds304.1485.asc",
+    "optical_constants": "roush2021_calcite.csv",
+    "points": 2001,
+    "wavelength_range_um": [
+      0.5,
+      2.5
+    ],
+    "fixed_effective_path_um": 30.0,
+    "fixed_porosity": 0.3,
+    "mae_reflectance": 0.1004473888659125,
+    "rmse_reflectance": 0.10728421007940316,
+    "mean_signed_error": -0.07041907513230361,
+    "pearson_shape_correlation": 0.966648438884194,
+    "uncertainty_note": "Zero in the USGS standard-deviation column means unmeasured, not zero uncertainty",
+    "carbonate_band_2p3um": {
+      "definition": "linear continuum through 2.20 and 2.48 um, minimum of R/continuum",
+      "measured": {
+        "center_um": 2.338,
+        "depth": 0.2736928105226031
+      },
+      "modeled": {
+        "center_um": 2.34,
+        "depth": 0.059594605705864834
+      }
+    },
+    "path_length_sensitivity": [
+      {
+        "effective_path_um": 75.0,
+        "rmse_reflectance": 0.20125209954411113,
+        "band": {
+          "center_um": 2.34,
+          "depth": 0.09344693903463142
+        }
+      },
+      {
+        "effective_path_um": 150.0,
+        "rmse_reflectance": 0.30443848938467405,
+        "band": {
+          "center_um": 2.34,
+          "depth": 0.13084560863763328
+        }
+      }
+    ]
+  },
+  {
+    "material": "dolomite",
+    "sample": "dolomite_hs102.2464.asc",
+    "optical_constants": "roush2021_dolomite.csv",
+    "points": 371,
+    "wavelength_range_um": [
+      0.5013,
+      2.496
+    ],
+    "fixed_effective_path_um": 30.0,
+    "fixed_porosity": 0.3,
+    "mae_reflectance": 0.22094862680225025,
+    "rmse_reflectance": 0.22259646603291297,
+    "mean_signed_error": 0.22094862680225025,
+    "pearson_shape_correlation": 0.8976428070572138,
+    "uncertainty_note": "Reported USGS per-channel standard deviations are present but omit model/sample systematic uncertainty",
+    "carbonate_band_2p3um": {
+      "definition": "linear continuum through 2.20 and 2.48 um, minimum of R/continuum",
+      "measured": {
+        "center_um": 2.315,
+        "depth": 0.19506041958415699
+      },
+      "modeled": {
+        "center_um": 2.315,
+        "depth": 0.07603434603158676
+      }
+    },
+    "path_length_sensitivity": [
+      {
+        "effective_path_um": 150.0,
+        "rmse_reflectance": 0.1150017965329329,
+        "band": {
+          "center_um": 2.315,
+          "depth": 0.17697327016116038
+        }
+      },
+      {
+        "effective_path_um": 285.0,
+        "rmse_reflectance": 0.05492190482611428,
+        "band": {
+          "center_um": 2.315,
+          "depth": 0.24745734637740968
+        }
+      }
+    ]
+  },
+  {
+    "material": "magnetite",
+    "sample": "magnetite_hs195.4243.asc",
+    "optical_constants": "magnetite_Querry1985.yml",
+    "points": 371,
+    "wavelength_range_um": [
+      0.5013,
+      2.496
+    ],
+    "fixed_effective_path_um": 30.0,
+    "fixed_porosity": 0.3,
+    "mae_reflectance": 0.018484843949539947,
+    "rmse_reflectance": 0.020491892208932803,
+    "mean_signed_error": 0.018484843949539947,
+    "pearson_shape_correlation": 0.9544955522213648,
+    "uncertainty_note": "Reported USGS per-channel standard deviations are present but omit model/sample systematic uncertainty"
+  },
+  {
+    "material": "serpentine_proxy",
+    "sample": "serpentine_hs8.6201.asc",
+    "optical_constants": "Sz_nk",
+    "points": 370,
+    "wavelength_range_um": [
+      0.5013,
+      2.496
+    ],
+    "fixed_effective_path_um": 30.0,
+    "fixed_porosity": 0.3,
+    "mae_reflectance": 0.047969837257318126,
+    "rmse_reflectance": 0.05462440896787667,
+    "mean_signed_error": 0.03815726352663391,
+    "pearson_shape_correlation": 0.7884702621249584,
+    "uncertainty_note": "Reported USGS per-channel standard deviations are present but omit model/sample systematic uncertainty"
+  }
+]

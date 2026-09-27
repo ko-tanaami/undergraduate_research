@@ -1,0 +1,52 @@
+[
+  {
+    "code": "Gser",
+    "points": 101,
+    "range": [
+      5.1,
+      12
+    ],
+    "min": 0.0007581880430299303,
+    "max": 0.08773408359668626,
+    "quadrature_max_abs_difference": 8.326672684688674e-17
+  },
+  {
+    "code": "opx",
+    "points": 101,
+    "range": [
+      0.5,
+      2.4
+    ],
+    "min": 0.3457402631734634,
+    "max": 0.7370483546609871,
+    "quadrature_max_abs_difference": 5.323026130987785e-09
+  },
+  {
+    "code": "cpx",
+    "points": 101,
+    "range": [
+      0.5,
+      2.4
+    ],
+    "min": 0.32001939499958,
+    "max": 0.558537180744267,
+    "quadrature_max_abs_difference": 9.476460727242397e-10
+  },
+  {
+    "code": "olv",
+    "points": 101,
+    "range": [
+      0.5,
+      2.4
+    ],
+    "min": 0.07988786434211326,
+    "max": 0.4445082594960929,
+    "quadrature_max_abs_difference": 1.1008308153925839e-09
+  },
+  {
+    "code": "opx/olv 0.7/0.3 model weights",
+    "points": 101,
+    "min": 0.2451420648547359,
+    "max": 0.5158707032522917
+  }
+]
