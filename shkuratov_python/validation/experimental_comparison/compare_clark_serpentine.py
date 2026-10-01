@@ -10,6 +10,7 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
 sys.path.insert(0, str(ROOT))
+from validation.local_data import opcon_directory
 from shkuratov_model import Component, load_opcon, load_optool, reflectance
 from validation.experimental_comparison.compare_usgs_spectra import read_usgs, band
 
@@ -32,8 +33,12 @@ def metrics(w, observed, modeled):
 def plot(curves, path):
     image = Image.new('RGB', (1500, 1000), 'white')
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype('C:/Windows/Fonts/arial.ttf', 22)
-    small = ImageFont.truetype('C:/Windows/Fonts/arial.ttf', 19)
+    try:
+        font = ImageFont.truetype('DejaVuSans.ttf', 22)
+        small = ImageFont.truetype('DejaVuSans.ttf', 19)
+    except OSError:
+        font = ImageFont.load_default(size=22)
+        small = ImageFont.load_default(size=19)
     colors = [(25, 65, 140), (185, 70, 35), (20, 130, 90)]
     for i, (title, w, series, ylabel) in enumerate(curves):
         x0, y0 = 95 + (i % 2)*740, 90 + (i//2)*450
@@ -69,7 +74,7 @@ def plot(curves, path):
 def main():
     out = HERE/'clark_serpentine_comparison'
     out.mkdir(exist_ok=True)
-    source = Path('C:/Users/2017j/Downloads/opcon/Sz_nk')
+    source = opcon_directory() / 'Sz_nk'
     clark = load_opcon(source.parent, 'Sz')
     proxy = load_optool(ROOT/'data/optical_constants_full/mg_serpentine_proxy_composite.lnk')
     report = {'settings': {'range_um':[.5,2.5], 'S_um':30., 'porosity':.3,

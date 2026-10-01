@@ -8,11 +8,12 @@ import sys
 import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from validation.local_data import opcon_directory
 from shkuratov_model import load_opcon
 
 
 def main():
-    source = Path('C:/Users/2017j/Downloads/opcon')
+    source = opcon_directory()
     target = Path(__file__).resolve().parents[1] / 'data/serpentine_candidates'
     target.mkdir(exist_ok=True)
     records = {}

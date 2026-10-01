@@ -9,7 +9,7 @@
     "quadrature_order": 256,
     "components": [
       {
-        "opcon_dir": "C:/Users/2017j/Downloads/opcon",
+        "opcon_dir": "../data/opcon",
         "code": "Gser",
         "weight": 1.0,
         "diameter": 30.0

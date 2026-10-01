@@ -20,6 +20,7 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
 sys.path.insert(0, str(ROOT))
+from validation.local_data import opcon_directory
 from shkuratov_model import (  # noqa: E402
     Component, load_constants, load_opcon, load_optool, load_refractiveindex_yml, reflectance,
 )
@@ -35,7 +36,7 @@ SAMPLES = {
 def comparison_constants(filename, kind):
     """Prefer the local Clark table for the current serpentine comparison."""
     if kind == 'opcon':
-        return load_opcon(Path('C:/Users/2017j/Downloads/opcon'), 'Sz')
+        return load_opcon(opcon_directory(), 'Sz')
     loader = {'pds': lambda p: load_constants(p, columns=(0, 2, 3)),
               'yml': load_refractiveindex_yml, 'optool': load_optool}[kind]
     return loader(ROOT / 'data/optical_constants_full' / filename)
@@ -84,8 +85,12 @@ def render_plot(curves, target):
     width, height = 1400, 920
     im = Image.new("RGB", (width, height), "white")
     draw = ImageDraw.Draw(im)
-    font = ImageFont.truetype("C:/Windows/Fonts/arial.ttf", 20)
-    small = ImageFont.truetype("C:/Windows/Fonts/arial.ttf", 16)
+    try:
+        font = ImageFont.truetype('DejaVuSans.ttf', 20)
+        small = ImageFont.truetype('DejaVuSans.ttf', 16)
+    except OSError:
+        font = ImageFont.load_default(size=20)
+        small = ImageFont.load_default(size=16)
     dark = (35, 45, 55)
     for i, (name, (wave, obs, mod)) in enumerate(curves.items()):
         col, row = i % 2, i // 2

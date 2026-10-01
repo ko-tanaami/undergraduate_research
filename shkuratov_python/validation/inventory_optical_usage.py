@@ -5,10 +5,11 @@ from pathlib import Path
 import sys
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from validation.local_data import opcon_directory
 import shkuratov_model as model
 
 ROOT = Path(__file__).resolve().parents[1]
-OPCON = Path('C:/Users/2017j/Downloads/opcon')
+OPCON = opcon_directory()
 
 
 def numeric_rows(path):
@@ -103,8 +104,8 @@ def main():
             level = 'テスト・読込確認・保存のみ'
         else:
             level = '計算未使用'
-        location = 'Downloads/opcon' if path.is_relative_to(OPCON) else 'プロジェクト内'
-        label = str(path.relative_to(OPCON if location == 'Downloads/opcon' else ROOT)).replace('\\', '/')
+        location = 'opcon' if path.is_relative_to(OPCON) else 'プロジェクト内'
+        label = str(path.relative_to(OPCON if location == 'opcon' else ROOT)).replace('\\', '/')
         records.append({'location': location, 'file': label, 'path': str(path),
                         'status': status, 'use_level': level,
                         'purpose': '；'.join(purposes) or '現在の計算・検証での参照を確認できない'})

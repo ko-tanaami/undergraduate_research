@@ -2,11 +2,12 @@
 import csv
 from pathlib import Path
 import numpy as np
+from validation.local_data import opcon_directory
 from shkuratov_model import Component, load_opcon, reflectance
 
 
 def main():
-    root=Path('C:/Users/2017j/Downloads/opcon')
+    root=opcon_directory()
     output=Path(__file__).with_name('shkuratov_interface_modes.csv')
     cases=(('Gser',5.1,12.),('opx',.5,2.4),('cpx',.5,2.4),('olv',.5,2.4))
     with output.open('w',newline='',encoding='utf-8') as stream:

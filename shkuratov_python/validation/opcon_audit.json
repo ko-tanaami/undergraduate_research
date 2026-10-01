@@ -1895,7 +1895,7 @@
       "code": "B",
       "status": "requires_review",
       "issue_category": "source_file_unavailable",
-      "reason": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\2017j\\\\Downloads\\\\opcon\\\\B_n'"
+      "reason": "[Errno 2] No such file or directory: 'data/opcon/B_n'"
     },
     {
       "code": "C",

@@ -4,9 +4,10 @@ import json
 import re
 from pathlib import Path
 from collections import Counter
+from validation.local_data import opcon_directory
 from shkuratov_model import load_opcon
 
-root=Path('C:/Users/2017j/Downloads/opcon')
+root=opcon_directory()
 source=(Path(__file__).resolve().parent.parent/'references'/'shkur_wid.pro').read_text()
 block=source.split("codearr=['H'",1)[1].split('mixarr=indgen',1)[0]
 codes=['H']+re.findall(r"'([^']*)'",block)

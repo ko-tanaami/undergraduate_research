@@ -6,11 +6,12 @@ It does not establish material provenance or physical applicability.
 import json
 from pathlib import Path
 import numpy as np
+from validation.local_data import opcon_directory
 from shkuratov_model import load_opcon, Component, reflectance
 
 
 def main():
-    root=Path('C:/Users/2017j/Downloads/opcon')
+    root=opcon_directory()
     audit=json.loads(Path(__file__).with_name('opcon_audit.json').read_text(encoding='utf-8'))
     results=[]
     for material in audit['materials']:

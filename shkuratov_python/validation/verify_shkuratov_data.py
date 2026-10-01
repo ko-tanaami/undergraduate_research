@@ -2,9 +2,10 @@
 import json
 from pathlib import Path
 import numpy as np
+from validation.local_data import opcon_directory
 from shkuratov_model import load_opcon,Component,reflectance
 
-root=Path('C:/Users/2017j/Downloads/opcon')
+root=opcon_directory()
 examples=Path(__file__).resolve().parent.parent/'examples'
 results=[]
 for code,limits in [('Gser',(5.1,12)),('opx',(.5,2.4)),('cpx',(.5,2.4)),('olv',(.5,2.4))]:
