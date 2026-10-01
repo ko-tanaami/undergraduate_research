@@ -8,3 +8,9 @@ __pycache__/
 data/
 output/
 outputs/
+
+*.md
+*.ppt
+*.pptx
+!/README.md
+!/README_ja.md
